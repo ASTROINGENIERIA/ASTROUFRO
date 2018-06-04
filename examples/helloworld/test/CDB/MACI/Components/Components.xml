@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Components  xmlns="urn:schemas-cosylab-com:Components:1.0"
+       xmlns:cdb="urn:schemas-cosylab-com:CDB:1.0" 
+       xmlns:baci="urn:schemas-cosylab-com:BACI:1.0" 
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      
+	<_ Name="Hello_python"       Code="helloworld"	
+                             Type="IDL:example/hello/helloworld:1.0"
+                             Container="aragornContainer" ImplLang="py" />
+	<_ Name="Hello_cpp"       Code="helloworldImpl"	
+                             Type="IDL:example/hello/helloworld:1.0"
+                             Container="bilboContainer" ImplLang="cpp" />
+	<_ Name="Hello_java"       Code="hello.helloHelper"	
+                             Type="IDL:example/hello/helloworld:1.0"
+                             Container="frodoContainer" ImplLang="java" />
+     
+</Components>
+

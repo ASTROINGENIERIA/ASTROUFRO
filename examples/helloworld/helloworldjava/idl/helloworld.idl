@@ -1,0 +1,19 @@
+#ifndef _HELLOWORLD_IDL_
+#define _HELLOWORLD_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "example"
+
+module Hello
+{
+	interface helloworld : ACS::ACSComponent
+	{
+
+	 	
+	void sayHello();
+	  
+	};
+};
+
+#endif
