@@ -1,0 +1,19 @@
+#ifndef _REMOTEHELLOWORLD_IDL_
+#define _REMOTEHELLOWORLD_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "example"
+
+module Hello
+{
+	interface remotehelloworld : ACS::ACSComponent
+	{
+
+	 	
+	void sayHelloRemote();
+	  
+	};
+};
+
+#endif

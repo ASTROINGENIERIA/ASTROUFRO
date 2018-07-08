@@ -1,5 +1,5 @@
-#ifndef _HELLO_IMPL_H_
-#define _HELLO_IMPL_H_
+#ifndef _HELLOWORlDIMPL_H_
+#define _HELLOWORLDIMPL_H_
 
 #include <helloworldS.h>
 #include <acscomponentImpl.h>
