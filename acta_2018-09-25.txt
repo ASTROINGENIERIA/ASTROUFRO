@@ -1,0 +1,6 @@
+# ACTA
+- Solicitamos reunión a Gonzalo Bravo para compra de componentes
+- Vamos a probar los medidores de corriente de http://sonoff.itead.cc/en/ 
+- Ya tenemos un prototipo de la interfaz de visualización 
+- Jose generará una mejora del código TI del sensor tag
+    - Mejorar el consumo apagando los sensores cuando no están siendo usados
