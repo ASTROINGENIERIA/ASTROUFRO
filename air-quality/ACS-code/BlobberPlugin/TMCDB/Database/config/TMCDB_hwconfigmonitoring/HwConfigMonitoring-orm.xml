@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    /////////////////////////////////////////////////////////////////
+    // WARNING!  DO NOT MODIFY THIS FILE!                          //
+    //  =========================================================  //
+    // | This is generated code!  Do not modify this file.       | //
+    // | Any changes will be lost when the file is re-generated. | //
+    //  =========================================================  //
+    /////////////////////////////////////////////////////////////////
+-->
+<entity-mappings
+   version="1.0"
+   xmlns="http://java.sun.com/xml/ns/persistence/orm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm http://java.sun.com/xml/ns/persistence/orm_1_0.xsd">
+
+	<package>alma.acs.tmcdb</package>
+	<entity class="HWConfiguration"/>
+	<entity class="SystemCounters"/>
+	<entity class="LRUType"/>
+	<entity class="AssemblyType"/>
+	<entity class="HwSchemas"/>
+	<entity class="Assembly"/>
+	<entity class="AssemblyRole"/>
+	<entity class="BaseElement"/>
+	<entity class="AcaCorrSet"/>
+	<entity class="Antenna"/>
+	<entity class="AcaCorrDelays"/>
+	<entity class="Pad"/>
+	<entity class="FrontEnd"/>
+	<entity class="PhotonicReference"/>
+	<entity class="WeatherStationController"/>
+	<entity class="CentralLO"/>
+	<entity class="AOSTiming"/>
+	<entity class="HolographyTower"/>
+	<entity class="AntennaToPad"/>
+	<entity class="WeatherStationToPad"/>
+	<entity class="HolographyTowerToPad"/>
+	<entity class="FEDelay"/>
+	<entity class="IFDelay"/>
+	<entity class="LODelay"/>
+	<entity class="XPDelay"/>
+	<entity class="CorrQuadrant"/>
+	<entity class="CorrQuadrantRack"/>
+	<entity class="CorrStationBin"/>
+	<entity class="CorrelatorBin"/>
+	<entity class="Startup"/>
+	<entity class="BaseElementStartup"/>
+	<entity class="AssemblyStartup"/>
+	<entity class="DefaultCanAddress"/>
+	<entity class="PointingModel"/>
+	<entity class="PointingModelCoeff"/>
+	<entity class="PointingModelCoeffOffset"/>
+	<entity class="FocusModel"/>
+	<entity class="FocusModelCoeff"/>
+	<entity class="FocusModelCoeffOffset"/>
+	<entity class="DefaultComponent"/>
+	<entity class="DefaultBaciProperty"/>
+	<entity class="DefaultMonitorPoint"/>
+	<entity class="MonitorPoint"/>
+	<entity class="MonitorData"/>
+	<entity class="BaseElementOnline"/>
+	<entity class="AssemblyOnline"/>
+	<entity class="Array"/>
+	<entity class="SBExecution"/>
+	<entity class="AntennaToFrontEnd"/>
+	<entity class="BL_VersionInfo"/>
+	<entity class="BL_PointingModelCoeff"/>
+	<entity class="BL_PointingModelCoeffOffset"/>
+	<entity class="BL_FocusModelCoeff"/>
+	<entity class="BL_FocusModelCoeffOffset"/>
+	<entity class="BL_FEDelay"/>
+	<entity class="BL_IFDelay"/>
+	<entity class="BL_LODelay"/>
+	<entity class="BL_XPDelay"/>
+	<entity class="BL_AntennaDelay"/>
+	<entity class="BL_Antenna"/>
+	<entity class="BL_Pad"/>
+	<entity class="BL_AntennaToPad"/>
+	<entity class="BL_AcaCorrDelays"/>
+	<entity class="AntennaEfficiency"/>
+	<entity class="ReceiverQuality"/>
+	<entity class="ReceiverQualityParameters"/>
+	<entity class="Holography"/>
+
+</entity-mappings>

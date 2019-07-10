@@ -1,0 +1,227 @@
+############ build ARCHIVE Software         #################
+############ Database MAIN
+## Checking Database
+   ------> Restoring Database/doc/idl/
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.05
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+############ TMCDB/Persistence MAIN
+## Checking TMCDB/Persistence
+   ------> Restoring TMCDB/Persistence/doc/idl/
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+############ TMCDB/Database MAIN
+## Checking TMCDB/Database
+   ------> Restoring TMCDB/Database/doc/idl/
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src'
+==
+== Generating SQL code
+==
+ -- org.eclipse.emf.mwe.core.WorkflowRunner alma/acs/tmcdb/generator/workflow/TMCDBGenerator.mwe -pmodelFile=generic/TMCDB_hwconfigmonitoring.ddl -ptargetDir=../config/TMCDB_hwconfigmonitoring
+2018-12-04T02:54:40.746 INFO [acsStartJava] Starting Java application: org.eclipse.emf.mwe.core.WorkflowRunner alma/acs/tmcdb/generator/workflow/TMCDBGenerator.mwe -pmodelFile=generic/TMCDB_hwconfigmonitoring.ddl -ptargetDir=../config/TMCDB_hwconfigmonitoring
+2018-12-04T02:54:40.761 INFO [acsStartJava] Using endorsed jar files in: -Djava.endorsed.dirs=/alma/ACS-2018FEB/JacORB/lib/endorsed:
+==
+== Generating SQL/Java translation code
+==
+ -- org.eclipse.emf.mwe.core.WorkflowRunner alma/acs/tmcdb/generator/workflow/HibernateStrategyGenerator.mwe -pmodelFile=generic/TMCDB_hwconfigmonitoring.ddl -ptargetDir=.
+2018-12-04T02:54:46.646 INFO [acsStartJava] Starting Java application: org.eclipse.emf.mwe.core.WorkflowRunner alma/acs/tmcdb/generator/workflow/HibernateStrategyGenerator.mwe -pmodelFile=generic/TMCDB_hwconfigmonitoring.ddl -ptargetDir=.
+2018-12-04T02:54:46.657 INFO [acsStartJava] Using endorsed jar files in: -Djava.endorsed.dirs=/alma/ACS-2018FEB/JacORB/lib/endorsed:
+== Compiling TMCDBhwconfigmonitoringStrategy.jar 
+==
+== Generating Java domain classes
+==
+Gathering SQL pieces from /alma/ACS-2018FEB/acsdata/config/DDL/hsqldb
+ -- org.hsqldb.cmdline.SqlTool --rcFile sqltool.rc tmcdb CreateHsqldbTables.sql
+2018-12-04T02:54:54.165 INFO [acsStartJava] Starting Java application: org.hsqldb.cmdline.SqlTool --rcFile sqltool.rc tmcdb CreateHsqldbTables.sql
+2018-12-04T02:54:54.176 INFO [acsStartJava] Using endorsed jar files in: -Djava.endorsed.dirs=/alma/ACS-2018FEB/JacORB/lib/endorsed:
+#@CLASSPATH=""; ant -DJACORB_HOME=/alma/ACS-2018FEB/JacORB generate
+ant -DJACORB_HOME=/alma/ACS-2018FEB/JacORB generate
+Buildfile: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src/build.xml
+
+generate:
+[hibernatetool] Executing Hibernate Tool with a JDBC Configuration (for reverse engineering)
+[hibernatetool] 1. task: hbm2java (Generates a set of .java files)
+[hibernatetool] 2018-12-03T21:54:57.154 DELOUSE [alma.acs.logging.config.LogConfig] Logging configuration has been initialized, but not from CDB settings.
+[hibernatetool] 2018-12-03T21:54:57.176 INFO [alma.acs.logging] Logger hibernate created with custom log levels local=Warning, remote=Warning to avoid log jams due to careless default log level settings.
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+[hibernatetool] INFO: HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.Version logVersion
+[hibernatetool] INFO: HHH000412: Hibernate Core {4.3.11.Final}
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.cfg.Environment <clinit>
+[hibernatetool] INFO: HHH000206: hibernate.properties not found
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.cfg.Environment buildBytecodeProvider
+[hibernatetool] INFO: HHH000021: Bytecode provider name : javassist
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.cfg.Configuration configure
+[hibernatetool] INFO: HHH000042: Configuring from file: generator-hibernate.cfg.xml
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+[hibernatetool] WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.cfg.Configuration doConfigure
+[hibernatetool] INFO: HHH000041: Configured SessionFactory: null
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+[hibernatetool] WARN: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+[hibernatetool] INFO: HHH000401: using driver [org.hsqldb.jdbc.JDBCDriver] at URL [jdbc:hsqldb:file:tmcdb/CreateHsqldbTables]
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+[hibernatetool] INFO: HHH000046: Connection properties: {user=sa, password=****}
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+[hibernatetool] INFO: HHH000006: Autocommit mode: false
+[hibernatetool] Dec 03, 2018 9:54:57 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+[hibernatetool] INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+[hibernatetool] Dec 03, 2018 9:54:58 PM org.hibernate.dialect.Dialect <init>
+[hibernatetool] INFO: HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+[hibernatetool] Dec 03, 2018 9:54:58 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+[hibernatetool] INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+[hibernatetool] Dec 03, 2018 9:54:58 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+[hibernatetool] INFO: HHH000397: Using ASTQueryTranslatorFactory
+[hibernatetool] Dec 03, 2018 9:54:58 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl stop
+[hibernatetool] INFO: HHH000030: Cleaning up connection pool [jdbc:hsqldb:file:tmcdb/CreateHsqldbTables]
+[hibernatetool] Dec 03, 2018 9:54:59 PM org.hibernate.tool.Version <clinit>
+[hibernatetool] INFO: Hibernate Tools 4.3.1.Final
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+==
+== Compiling and packing generated domain classes
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+== Will remove the classes already present in '/alma/ACS-2018FEB/ACSSW/lib/cdbrdb-pojos.jar'
+/bin/bash: line 9: unzip: command not found
+== 
+== Making Jarfile TMCDB_HD_plugin.jar
+com/cosylab/cdb/jdal/hibernate/plugin/HibernateWDALPluginImpl.java:244: warning: '_' used as an identifier
+	                ambDevice._.put(baciProperty.PropertyName, new EmptyStringHandlerBACIPropertyType(baciProperty));
+	                          ^
+  (use of '_' as an identifier might not be supported in releases after Java SE 8)
+com/cosylab/cdb/jdal/hibernate/plugin/HibernateWDALPluginImpl.java:494: warning: '_' used as an identifier
+	                ambDevice._.put(baciProperty.PropertyName, new EmptyStringHandlerBACIPropertyType(baciProperty));
+	                          ^
+  (use of '_' as an identifier might not be supported in releases after Java SE 8)
+com/cosylab/cdb/jdal/hibernate/plugin/HibernateWDALPluginImpl.java:841: error: cannot find symbol
+		return Restrictions.sqlRestriction("REGEXP_LIKE("+columnName+", ?)", re, org.hibernate.type.StringType.INSTANCE); //Oracle
+		                                                                                                      ^
+  symbol:   variable INSTANCE
+  location: class StringType
+1 error
+2 warnings
+make[2]: *** [/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src/../lib/TMCDB_HD_plugin.jar] Error 1
+make[2]: Target `do_all_aux' not remade because of errors.
+make[1]: *** [do_all] Error 2
+make[1]: Target `all' not remade because of errors.
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src'
+TMCDB/Database/src COMPILATION TIME 0:26.92
+### ==> FAILED all ! 
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src'
+...other files
+	../lib/TMCDBpojos.jar
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDB_HD_plugin
+== Making Jarfile TMCDB_HD_plugin.jar
+com/cosylab/cdb/jdal/hibernate/plugin/HibernateWDALPluginImpl.java:244: warning: '_' used as an identifier
+	                ambDevice._.put(baciProperty.PropertyName, new EmptyStringHandlerBACIPropertyType(baciProperty));
+	                          ^
+  (use of '_' as an identifier might not be supported in releases after Java SE 8)
+com/cosylab/cdb/jdal/hibernate/plugin/HibernateWDALPluginImpl.java:494: warning: '_' used as an identifier
+	                ambDevice._.put(baciProperty.PropertyName, new EmptyStringHandlerBACIPropertyType(baciProperty));
+	                          ^
+  (use of '_' as an identifier might not be supported in releases after Java SE 8)
+com/cosylab/cdb/jdal/hibernate/plugin/HibernateWDALPluginImpl.java:841: error: cannot find symbol
+		return Restrictions.sqlRestriction("REGEXP_LIKE("+columnName+", ?)", re, org.hibernate.type.StringType.INSTANCE); //Oracle
+		                                                                                                      ^
+  symbol:   variable INSTANCE
+  location: class StringType
+1 error
+2 warnings
+make[1]: *** [/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src/../lib/TMCDB_HD_plugin.jar] Error 1
+.....exe:
+make[1]: Target `install' not remade because of errors.
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Database/src'
+### ==> FAILED install ! 
+############ TMCDB/DAO MAIN
+## Checking TMCDB/DAO
+   ------> Restoring TMCDB/DAO/doc/idl/
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src'
+== Making Jarfile TMCDBDAOLayer.jar
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src'
+TMCDB/DAO/src COMPILATION TIME 0:03.37
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src'
+...other files
+	../lib/TMCDBDAOLayer.jar
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/DAO/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/DAO/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBDAOLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/DAO/src'

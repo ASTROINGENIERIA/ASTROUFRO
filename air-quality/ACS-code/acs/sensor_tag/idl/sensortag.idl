@@ -1,0 +1,55 @@
+
+#ifndef _SENSORTAG_IDL_
+#define _SENSORTAG_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "example"
+
+module Sensors
+{
+	interface sensortag : ACS::CharacteristicComponent
+	{
+		
+		readonly attribute ACS::ROdouble temperature;
+
+		
+		readonly attribute ACS::ROdouble light;
+
+		
+		readonly attribute ACS::ROdouble pressure;
+
+		readonly attribute ACS::ROdouble humidity;
+
+		readonly attribute ACS::ROdouble dioxide;
+
+		readonly attribute ACS::ROdouble oxygen;
+
+
+        readonly attribute ACS::ROlongLong time;
+
+
+        /* Turn on refresh thread*/
+        void on();
+
+        /*Turn off refresh thread*/
+        void off();
+
+	void publishTemperature();
+
+	void publishLight();
+
+	void publishPressure();
+
+	void publishHumidity();
+
+	void publishDioxide();
+
+	void publishOxygen();
+
+	void publishTime();
+
+	};
+};
+
+#endif

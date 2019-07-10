@@ -1,0 +1,38 @@
+#ifndef _TELEGRAMALARM_IDL_
+#define _TELEGRAMALARM_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "example"
+
+module Telegram
+{
+	interface telegramalarm : ACS::ACSComponent
+	{
+
+	 	
+	void addValue(in string node, in string baciName, in string timeBaci, in double value);
+
+	void send_status(in string chatid);
+
+	void send_values(in string chatid, in string data, in string baci);
+
+    void send_subscribe(in string chatid, in string data);
+
+
+    void send_unsubscribe(in string chatid, in string data);
+    
+    void send_unsubscribeall(in string chatid);
+        
+    void send_subscribeall(in string chatid);
+        
+    void send_echo_all(in string message);
+    
+    void clearAll();
+    
+	string getOptions();
+
+	};
+};
+
+#endif

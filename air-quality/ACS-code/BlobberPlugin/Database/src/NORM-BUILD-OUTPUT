@@ -1,0 +1,3186 @@
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+/bin/ksh[9]: /usr/bin/time: not found [No such file or directory]
+### ==> FAILED all ! 
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+	../lib/xmldb.jar
+	../lib/xmlrpc-1.2.jar
+	../lib/exist.jar
+	../lib/axis.jar
+	../lib/jaxrpc.jar
+	../lib/commons-discovery-0.2.jar
+	../lib/saaj.jar
+	../lib/wsdl4j-1.5.1.jar
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.85
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.96
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.96
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+	../lib/xmldb.jar
+	../lib/xmlrpc-1.2.jar
+	../lib/exist.jar
+	../lib/axis.jar
+	../lib/jaxrpc.jar
+	../lib/commons-discovery-0.2.jar
+	../lib/saaj.jar
+	../lib/wsdl4j-1.5.1.jar
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.93
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.92
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.96
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.16
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.04
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.03
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.17
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.24
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.10
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.09
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.10
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.10
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.22
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.04
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.99
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.03
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:04.45
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.10
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.15
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.05
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.04
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:04.67
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.13
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.17
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.00
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.04
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.18
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.02
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.16
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.15
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.03
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.00
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.01
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.26
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.04
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.05
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.71
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.14
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.17
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.13
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.09
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.02
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.13
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.10
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.24
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.14
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.19
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.06
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.10
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.02
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.16
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.90
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.25
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.19
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.15
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:05.55
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.09
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.01
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.22
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.09
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.20
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.09
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.16
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.04
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.12
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.09
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.00
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.99
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.00
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.14
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.95
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.13
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.08
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.14
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.05
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.07
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:02.97
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.11
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.13
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.14
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.16
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.14
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.24
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.03
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.13
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.24
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Cleaning up . . . . .
+ . . . clean done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+== Making Jarfile archive_database.jar
+Note: alma/archive/database/helpers/ArchiveConfiguration.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+Database/src COMPILATION TIME 0:03.05
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Database/include
+                                               . . . done 
+
+.....java:
+installing jarfile archive_database
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/Database/src'

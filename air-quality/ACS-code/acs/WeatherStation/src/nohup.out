@@ -1,0 +1,1263 @@
+2019-07-01T16:05:53.779 Python Client: initialized by scarrasco03@pillan Main - We can directly manipulate a device once we get it, which is easy.
+##################Press enter to quit#########################2019-07-01T16:05:54.040 Python Client: initialized by scarrasco03@pillan Main - Sorry, I expected there to be a Mount in the system and there isn't.
+2019-07-01T16:05:54.040 Python Client: initialized by scarrasco03@pillan Main - The exception was:[Errno 9] Bad file descriptor
+2019-07-01T16:05:54.042 Python Client: initialized by scarrasco03@pillan disconnect - Disconnect called for client
+The end __oOo__
+2019-07-01T16:05:54.048 Python Client: initialized by scarrasco03@pillan disconnect - Disconnect called for client
+2019-07-01T20:50:00.852 Python Client: initialized by scarrasco03@pillan Main - We can directly manipulate a device once we get it, which is easy.
+2019-07-01T20:50:00.864 Python Client: initialized by scarrasco03@pillan Main - The exception was:MonitorErr.RegisteringDeviceProblemEx(errorTrace=ACSErr.ErrorTrace(file='MonitorCollectorImpl.cpp', lineNum=130, routine='MonitorCollectorImpl::registerMonitoredComponentWithSerial', host='pillan', process='stContainer', thread='ORBTask', timeStamp=137813070008629330L, sourceObject='', errorType=60200L, errorCode=1L, severity=Error, shortDescription='Registering Device Problem.', data=[ACSErr.NameValue(name='Device', value='ufro/cemcc/piso3/sensor_1')], previousError=[ACSErr.ErrorTrace(file='MonitorCollectorImpl.cpp', lineNum=222, routine='MonitorCollectorImpl::registerMonitoredDevice', host='pillan', process='stContainer', thread='ORBTask', timeStamp=137813070008627120L, sourceObject='', errorType=60200L, errorCode=0L, severity=Error, shortDescription='Device already registered.', data=[ACSErr.NameValue(name='Device', value='ufro/cemcc/piso3/sensor_1')], previousError=[])]))
+2019-07-01T20:50:00.865 Python Client: initialized by scarrasco03@pillan disconnect - Disconnect called for client
+Locking instance 0 with lock file /alma/ACS-2018FEB/acsdata/tmp/acsInstance0.lock
+2019-07-01T20:53:24.227 INFO [acsStart] Starting ACS version ACS-2018FEB.0
+2019-07-01T20:53:24.236 INFO [acsStart] Using ALMA Base Software tag WARNING: No ACS_TAG available
+2019-07-01T20:53:24.328 INFO [acsStartORBSRVC] Starting CORBA Services
+2019-07-01T20:53:24.340 INFO [acsStartORBSRVC]     Orb options:  -ORBDottedDecimalAddresses 1
+2019-07-01T20:53:24.526 INFO [acsNamingService] Starting Naming Service
+2019-07-01T20:53:25.745 INFO [acsInterfaceRepository] Starting Interface Repository
+1249
+2019-07-01T20:53:29.518 INFO [acsInterfaceRepository] Loading of IDL interfaces in Interface Repository is being skipped due to up-to-date persistence file
+ReBound ID: InterfaceRepository
+2019-07-01T20:53:30.897 INFO [acsNotifyService] Starting Notify Service
+Name Service without channel entries in the endpoint 200.13.6.10:3002
+Using reactive client control.
+Using 1 threads for each Supplier.
+Using 1 threads for each Consumer.
+ReBound ID: MC_NotifyEventChannelFactory
+2019-07-01T20:53:32.199 INFO [acsNotifyService] Starting Logging Notify Service
+Name Service without channel entries in the endpoint 200.13.6.10:3005
+Using reactive client control.
+Using 1 threads for each Supplier.
+Using 1 threads for each Consumer.
+ReBound ID: MC_LoggingNotifyEventChannelFactory
+2019-07-01T20:53:33.506 INFO [acsLoggingService] Starting Logging Service
+2019-07-01T20:53:34.801 INFO [acsConfigurationDatabase] Starting ACS Configuration Database
+2019-07-01T20:53:34.810 INFO [acsConfigurationDatabase]     CDB data is in:  /home/astro/scarrasco03/mqtt.devio.acs/acs/sensor_tag/test
+ --endorsed --maxHeapSize 512m -D jacorb.poa.thread_pool_max=200 -D jacorb.connection.client.pending_reply_timeout=30000 -D ACS.cdbpath=/home/astro/scarrasco03/mqtt.devio.acs/acs/WeatherStation/src/../config/CDB/schemas:/home/astro/scarrasco03/mqtt.devio.acs/acs/sensor_tag/test/CDB/schemas:/home/astro/scarrasco03/INTROOT/config/CDB/schemas:/alma/ACS-2018FEB/ACSSW/config/CDB/schemas -- com.cosylab.cdb.jdal.Server -jacorb -root /home/astro/scarrasco03/mqtt.devio.acs/acs/sensor_tag/test -OAIAddr 200.13.6.10 -OAport 3012 -n
+2019-07-01T20:53:34.948 INFO [acsStartJava] Starting Java application: com.cosylab.cdb.jdal.Server -jacorb -root /home/astro/scarrasco03/mqtt.devio.acs/acs/sensor_tag/test -OAIAddr 200.13.6.10 -OAport 3012 -n
+2019-07-01T20:53:34.965 INFO [acsStartJava] Using endorsed jar files in: -Djava.endorsed.dirs=/home/astro/scarrasco03/INTROOT/lib/endorsed:/alma/ACS-2018FEB/ACSSW/lib/endorsed:/alma/ACS-2018FEB/JacORB/lib/endorsed:
+2019-07-01T20:53:35.068 INFO [acsNotifyService] Starting Archive Notify Service
+Name Service without channel entries in the endpoint 200.13.6.10:3006
+Using reactive client control.
+Using 1 threads for each Supplier.
+Using 1 threads for each Consumer.
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/alma/ACS-2018FEB/ACSSW/lib/slf4j-acs.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/astro/scarrasco03/INTROOT/lib/activemq-all-5.6.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.ACSLoggerFactory]
+2019-07-01T20:53:36.034 INFO [alma.acs.logging] Logger jacorb@CDB created with custom log levels local=Info, remote=Info to avoid log jams due to careless default log level settings.
+2019-07-01T20:53:36.245 INFO [CDB] DALImpl will use XSD caching for xerces sax parser ? false
+2019-07-01T20:53:36.261 INFO [CDB] DAL root is: /home/astro/scarrasco03/mqtt.devio.acs/acs/sensor_tag/test/CDB/
+ReBound ID: MC_ArchiveNotifyEventChannelFactory
+2019-07-01T20:53:36.508 INFO [acsNotifyService] Starting Alarm Notify Service
+2019-07-01T20:53:36.595 INFO [CDB] JDAL is ready and waiting ...
+JDAL is ready and waiting ...
+Will retrieve the log service reference from the naming service...
+Name Service without channel entries in the endpoint 200.13.6.10:3007
+Using reactive client control.
+Using 1 threads for each Supplier.
+Using 1 threads for each Consumer.
+2019-07-01T20:53:37.840 INFO [acsACSLogService] Starting ACS Log service
+ReBound ID: MC_AlarmNotifyEventChannelFactory
+2019-07-01T20:53:39.261 INFO [acsAlarmService] Starting ACS AlarmService
+ --endorsed -- alma.acs.alarmsystem.corbaservice.AlarmSystemCorbaServer -jacorb -OAIAddr 200.13.6.10 -OAport 3013
+2019-07-01T20:53:39.362 INFO [acsStartJava] Starting Java application: alma.acs.alarmsystem.corbaservice.AlarmSystemCorbaServer -jacorb -OAIAddr 200.13.6.10 -OAport 3013
+2019-07-01T20:53:39.379 INFO [acsStartJava] Using endorsed jar files in: -Djava.endorsed.dirs=/home/astro/scarrasco03/INTROOT/lib/endorsed:/alma/ACS-2018FEB/ACSSW/lib/endorsed:/alma/ACS-2018FEB/JacORB/lib/endorsed:
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/alma/ACS-2018FEB/ACSSW/lib/slf4j-acs.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/astro/scarrasco03/INTROOT/lib/activemq-all-5.6.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.ACSLoggerFactory]
+2019-07-01T20:53:40.547 INFO [alma.acs.logging] Logger jacorb@AlarmService created with custom log levels local=Info, remote=Info to avoid log jams due to careless default log level settings.
+Will retrieve the log service reference from the naming service...
+2019-07-01T20:53:40.964 NOTICE [CDB] Curl 'Alarms/Administrative/AlarmSystemConfiguration' does not exist.
+2019-07-01T20:53:40.974 INFO [AlarmService] Starting the ACS implementation of the alarm service
+The alarm service is ready and waiting
+2019-07-01T20:53:41.318 INFO [acsStartORBSRVC] For this ACS session, please do an 'export ACS_INSTANCE=0' on all terminals running ACS clients.
+2019-07-01T20:53:41.327 INFO [acsStartORBSRVC] The acsStartORBSRVC script has now completed!
+2019-07-01T20:53:41.947 INFO [Starting jManager] 
+ --endorsed --noClassLoader --noAutoClasspath --addToClasspath acsASsources.jar:acscommon.jar:acscomponent.jar:acsContainerServices.jar:acsdaemon.jar:acsdaemonErrType.jar:acserr.jar:acserrj.jar:acsErrTypeAlarmSourceFactory.jar:ACSErrTypeCommon.jar:ACSErrTypeCORBA.jar:ACSErrTypeJavaNative.jar:ACSErrTypeOK.jar:acsjlog.jar:acsjms.jar:ACSJMSMessageEntity.jar:acsnc.jar:acsncErrType.jar:AcsNCTraceLogLTS.jar:AlarmSourceSchemaBindings.jar:alarmsysteminterface.jar:castor.jar:cdbDAL.jar:cdbErrType.jar:CDB.jar:cmwmom.jar:commons-logging-1.1.1.jar:commons-math-2.1.jar:jACSUtil.jar:jacsutil2.jar:JavaContainerError.jar:jcontnc.jar:jmanagerErrType.jar:jManager.jar:jms.jar:laserutil.jar:log4j-1.2.15.jar:logging_idl.jar:maciErrType.jar:maci.jar:maciSchemaBindings.jar:NotifyExt.jar:NotifyMonitoringExt.jar:prevayler-1.02.001.jar:repeatGuard.jar:xalan.jar:slf4j-api-1.7.6.jar:slf4j-acs.jar:xalan_serializer.jar -D jacorb.poa.thread_pool_max=200 -D jacorb.poa.queue_max=500 -D NamingServiceRemoteDirectory.reference=iiop://200.13.6.10:3001 -D DAL.defaultReference=corbaloc::200.13.6.10:3012/CDB -D OAPort=3000 -D manager.debug.rememberOldHandles -- com.cosylab.acs.maci.manager.app.Manager -OAIAddr=200.13.6.10 -n
+2019-07-01T20:53:42.116 INFO [acsStartJava] Starting Java application: com.cosylab.acs.maci.manager.app.Manager -OAIAddr=200.13.6.10 -n
+2019-07-01T20:53:42.133 INFO [acsStartJava] Using endorsed jar files in: -Djava.endorsed.dirs=/home/astro/scarrasco03/INTROOT/lib/endorsed:/alma/ACS-2018FEB/ACSSW/lib/endorsed:/alma/ACS-2018FEB/JacORB/lib/endorsed:
+2019-07-01T20:53:42.689 DELOUSE [alma.acs.logging.config.LogConfig] Logging configuration has been initialized, but not from CDB settings.
+2019-07-01T20:53:42.706 FINER [alma.acs.logging] Changed processName='null' to 'Manager' and updated logger names.
+2019-07-01T20:53:42.709 INFO [Manager] Initializing Manager.
+2019-07-01T20:53:42.768 INFO [alma.acs.logging] Logger jacorb@Manager created with custom log levels local=Info, remote=Info to avoid log jams due to careless default log level settings.
+2019-07-01T20:53:42.927 INFO [Manager] Connecting to CORBA Naming Service with reference 'iiop://200.13.6.10:3001'...
+2019-07-01T20:53:43.121 INFO [Manager] Connected to CORBA Naming Service with reference 'iiop://200.13.6.10:3001'.
+Recovering system state...
+Skipping saved manager state!
+2019-07-01T20:53:43.177 INFO [Manager] Connecting to DAL 'corbaloc::200.13.6.10:3012/CDB'...
+2019-07-01T20:53:43.194 INFO [Manager] Connected to DAL 'corbaloc::200.13.6.10:3012/CDB'.
+2019-07-01T20:53:43.556 FINER [alma.acs.logging] Updated logging configuration based on CDB entry <?xml version="1.0" encoding="UTF-8"?>
+<LoggingConfig xmlns="urn:schemas-cosylab-com:LoggingConfig:1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    minLogLevel="2" minLogLevelLocal="2" centralizedLogger="Log"
+    dispatchPacketSize="100" immediateDispatchLevel="10"
+    flushPeriodSeconds="10" maxLogQueueSize="1000" maxLogsPerSecond="-1" xsi:type="LoggingConfig">
+    <_ minLogLevel="5" minLogLevelLocal="4" Name="jacorb@Manager"/>
+</LoggingConfig> with env vars having precedence over CDB
+2019-07-01T20:53:43.582 INFO [CDB] Recovery file: /alma/ACS-2018FEB/acsdata/tmp/pillan/ACS_INSTANCE.0/CDB_Recovery.txt
+2019-07-01T20:53:43.678 CONFIG [Manager] Connected to DAO 'MACI/Managers/Manager'.
+2019-07-01T20:53:43.702 CONFIG [Manager] Connected to DAO 'MACI/Components'.
+2019-07-01T20:53:43.704 INFO [Manager] Found 9 component entries in the configuration database.
+2019-07-01T20:53:43.721 FINER [ManagerContainerServices] [alarm_osci] started task loop with FIXED_DELAY=1000 ms.
+2019-07-01T20:53:43.722 FINER [ManagerContainerServices] [alarm_timer] started task loop with FIXED_DELAY=30000 ms.
+2019-07-01T20:53:43.724 INFO [Manager] Manager initialized with state persistence disabled.
+2019-07-01T20:53:43.727 FINER [Manager] Orb profiling set up, using class com.cosylab.acs.maci.manager.app.ManagerOrbProfiler
+2019-07-01T20:53:43.757 INFO [Manager] Manager activated with IOR:000000000000001C49444C3A696A732E73692F6D6163692F4D616E616765723A312E3000000000010000000000000074000102000000000C3230302E31332E362E3130000BB80000000000164F52422F4D616E61676572504F412F4D616E616765720000000000020000000000000008000000004A41430000000001000000240000000000010001000000020001000F0501000100010109000000020501000100010100
+2019-07-01T20:53:43.766 CONFIG [Manager] No domain list given, manager federation disabled.
+2019-07-01T20:53:43.767 INFO [Manager] All initializations done.
+2019-07-01T20:53:43.767 INFO [Manager] AcsManagerStatusMessage_ManagerStarted Manager Application initialized.
+
+2019-07-01T20:53:43.772 WARNING [Manager] No list of services daemons available in the CDB. In an operational environment using ACS daemons, this is a severe error!! It is OK only if you run the system without using these daemons. 
+2019-07-01T20:53:43.773 INFO [Manager] 'Manager' requested component 'curl:///Log'.
+2019-07-01T20:53:43.880 CONFIG [Manager] Connected to DAO 'MACI/Containers'.
+2019-07-01T20:53:43.898 INFO [Manager] Component 'curl:///Log' provided to 'Manager'.
+2019-07-01T20:53:43.976 INFO [acsManager] Manager is up and running
+2019-07-01T20:53:44.076 INFO [acsStart] For this ACS session, please do an 'export ACS_INSTANCE=0' on all terminals running ACS clients.
+2019-07-01T20:53:44.085 INFO [acsStart] ACS is up and running
+2019-07-01T20:54:22.128 FINE [Manager] ORB status: connectionThreadsUsed=0%, lost calls=0, requestQueueMaxUsePercent=0% (in POA 'null').
+2019-07-01T20:54:22.136 INFO [Manager] Request for component 'curl:///CDB' issued.
+2019-07-01T20:54:22.141 INFO [Manager] Component 'curl:///CDB' provided.
+2019-07-01T20:54:22.172 INFO [Manager] Request for component 'curl:///CDB' issued.
+2019-07-01T20:54:22.179 INFO [Manager] Component 'curl:///CDB' provided.
+2019-07-01T20:54:22.232 INFO [Manager] Request for component 'curl:///NameService' issued.
+2019-07-01T20:54:22.232 INFO [Manager] Component 'curl:///NameService' provided.
+2019-07-01T20:54:22.239 INFO [Manager] Request for component 'curl:///Log' issued.
+2019-07-01T20:54:22.242 INFO [Manager] Component 'curl:///Log' provided.
+2019-07-01T20:54:22.247 INFO [Manager] Request for component 'curl:///NameService' issued.
+2019-07-01T20:54:22.248 INFO [Manager] Component 'curl:///NameService' provided.
+2019-07-01T20:54:22.264 FINER [alma.acs.logging] Changed processName='Manager' to 'Manager-ContainerProxy' and updated logger names.
+2019-07-01T20:54:22.282 FINE [Manager] 'stContainer' is logging in.
+2019-07-01T20:54:22.286 INFO [Manager] Container 'stContainer' logged in.
+2019-07-01T20:54:22.286 FINE [Manager] Client with handle 'Handle (0x4750001) = { type = CONTAINER, key = (0x75), id = (0x1) }' has logged in.
+2019-07-01T20:54:25.287 INFO [Manager] Container 'stContainer' startup statistics: 6 components queued to be activated.
+2019-07-01T20:54:25.290 INFO [Manager] Activating component 'MONITOR_COLLECTOR' (Handle (0x1000001) = { type = COMPONENT, key = (0x0), id = (0x1) }) on container 'stContainer'.
+2019-07-01T20:54:25.293 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x1000001) = { type = COMPONENT, key = (0x0), id = (0x1) }) is running on container 'stContainer'.
+2019-07-01T20:54:25.322 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:54:25.322 INFO [Manager] Failed to provide non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL' to 'MONITOR_COLLECTOR'.
+2019-07-01T20:54:25.342 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 1
+2019-07-01T20:54:25.345 SEVERE [Manager] Failed to activate component 'MONITOR_COLLECTOR' on container 'stContainer'.
+alma.maciErrType.wrappers.AcsJCannotGetComponentEx
+	at com.cosylab.acs.maci.manager.ManagerImpl$ComponentInfoCompletionCallbackImpl.failed(ManagerImpl.java:6881)
+	at com.cosylab.acs.maci.plug.ContainerProxy$CBComponentInfoImpl.done(ContainerProxy.java:211)
+	at si.ijs.maci.CBComponentInfoPOA._invoke(CBComponentInfoPOA.java:52)
+	at org.jacorb.poa.RequestProcessor.invokeOperation(RequestProcessor.java:414)
+	at org.jacorb.poa.RequestProcessor.process(RequestProcessor.java:738)
+	at org.jacorb.poa.RequestProcessor.run(RequestProcessor.java:909)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.maci::ActivationMethod::call(maciContainerImpl.cpp:144)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.maci::ContainerImpl::activate_component(maciContainerImpl.cpp:2297)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.ACSComponentImpl::__initialize(acscomponentImpl.cpp:123)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.ContainerServices::getComponentNonSticky(/alma/ACS-2018FEB/ACSSW/include/acsContainerServices.i:102)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.MACIContainerServices::getCORBAComponentNonSticky(maciContainerServices.cpp:254)
+Caused by: alma.maciErrType.wrappers.AcsJComponentNotAlreadyActivatedEx: 
+	at ---.get_component_non_sticky(ManagerProxyImpl.java:605)
+2019-07-01T20:54:25.347 WARNING [Manager] Failed to activate autostart component 'curl:///MONITOR_COLLECTOR'.
+alma.maciErrType.wrappers.AcsJCannotGetComponentEx [ Reason='Failed to activate component 'MONITOR_COLLECTOR' on container 'stContainer'.' ] 
+	at com.cosylab.acs.maci.manager.ManagerImpl.internalNoSyncRequestComponent(ManagerImpl.java:6686)
+	at com.cosylab.acs.maci.manager.ManagerImpl.internalRequestComponent(ManagerImpl.java:5956)
+	at com.cosylab.acs.maci.manager.ManagerImpl.internalRequestComponent(ManagerImpl.java:5914)
+	at com.cosylab.acs.maci.manager.ManagerImpl.containerPostLoginActivation(ManagerImpl.java:3350)
+	at com.cosylab.acs.maci.manager.ManagerImpl.access$1100(ManagerImpl.java:152)
+	at com.cosylab.acs.maci.manager.ManagerImpl$5.run(ManagerImpl.java:2997)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: alma.maciErrType.wrappers.AcsJCannotGetComponentEx [ Reason='Failed to activate component 'MONITOR_COLLECTOR' (Handle (0x1000001) = { type = COMPONENT, key = (0x0), id = (0x1) }).' ] 
+	at com.cosylab.acs.maci.manager.ManagerImpl$ComponentInfoCompletionCallbackImpl.failed(ManagerImpl.java:6881)
+	at com.cosylab.acs.maci.plug.ContainerProxy$CBComponentInfoImpl.done(ContainerProxy.java:211)
+	at si.ijs.maci.CBComponentInfoPOA._invoke(CBComponentInfoPOA.java:52)
+	at org.jacorb.poa.RequestProcessor.invokeOperation(RequestProcessor.java:414)
+	at org.jacorb.poa.RequestProcessor.process(RequestProcessor.java:738)
+	at org.jacorb.poa.RequestProcessor.run(RequestProcessor.java:909)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.maci::ActivationMethod::call(maciContainerImpl.cpp:144)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.maci::ContainerImpl::activate_component(maciContainerImpl.cpp:2297)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.ACSComponentImpl::__initialize(acscomponentImpl.cpp:123)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.ContainerServices::getComponentNonSticky(/alma/ACS-2018FEB/ACSSW/include/acsContainerServices.i:102)
+Caused by: alma.acs.exceptions.DefaultAcsJException
+	at ---.MACIContainerServices::getCORBAComponentNonSticky(maciContainerServices.cpp:254)
+Caused by: alma.maciErrType.wrappers.AcsJComponentNotAlreadyActivatedEx: 
+	at ---.get_component_non_sticky(ManagerProxyImpl.java:605)
+2019-07-01T20:54:25.348 INFO [Manager] Activating component 'ufro/cemcc/piso3/sensor_1' (Handle (0x1000002) = { type = COMPONENT, key = (0x0), id = (0x2) }) on container 'stContainer'.
+2019-07-01T20:54:25.352 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_1' (Handle (0x1000002) = { type = COMPONENT, key = (0x0), id = (0x2) }) is running on container 'stContainer'.
+2019-07-01T20:54:25.368 INFO [Manager] 'ufro/cemcc/piso3/sensor_1' requested component 'curl:///CDB'.
+2019-07-01T20:54:25.373 INFO [Manager] Component 'curl:///CDB' provided to 'ufro/cemcc/piso3/sensor_1'.
+2019-07-01T20:54:31.568 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 2
+2019-07-01T20:54:31.569 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ufro/cemcc/piso3/sensor_1'.
+2019-07-01T20:54:31.569 INFO [Manager] Component 'ufro/cemcc/piso3/sensor_1' (Handle (0x1000002) = { type = COMPONENT, key = (0x0), id = (0x2) }) activated successfully.
+2019-07-01T20:54:31.570 FINE [Manager] Component 'ufro/cemcc/piso3/sensor_1' (Handle (0x1000002) = { type = COMPONENT, key = (0x0), id = (0x2) }) activated.
+2019-07-01T20:54:31.571 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_1' (Handle (0x1000002) = { type = COMPONENT, key = (0x0), id = (0x2) }) has finished on container 'stContainer'.
+2019-07-01T20:54:31.571 INFO [Manager] Activating component 'ufro/cemcc/piso3/sensor_2' (Handle (0x1000003) = { type = COMPONENT, key = (0x0), id = (0x3) }) on container 'stContainer'.
+2019-07-01T20:54:31.572 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_2' (Handle (0x1000003) = { type = COMPONENT, key = (0x0), id = (0x3) }) is running on container 'stContainer'.
+2019-07-01T20:54:31.574 INFO [Manager] 'ufro/cemcc/piso3/sensor_2' requested component 'curl:///CDB'.
+2019-07-01T20:54:31.578 INFO [Manager] Component 'curl:///CDB' provided to 'ufro/cemcc/piso3/sensor_2'.
+2019-07-01T20:54:38.260 FINE [Manager] 'acsCORBA Client' is logging in.
+2019-07-01T20:54:38.261 INFO [Manager] Client 'acsCORBA Client' logged in.
+2019-07-01T20:54:38.261 FINE [Manager] Client with handle 'Handle (0x2fe0001) = { type = CLIENT, key = (0xfe), id = (0x1) }' has logged in.
+2019-07-01T20:54:38.262 INFO [Manager] 'acsCORBA Client' requested component 'curl:///ACSLogSvc'.
+2019-07-01T20:54:38.267 INFO [Manager] Component 'curl:///ACSLogSvc' provided to 'acsCORBA Client'.
+2019-07-01T20:54:38.328 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T20:54:38.331 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T20:54:38.342 FINE [Manager] 'aragornContainer' is logging in.
+2019-07-01T20:54:38.343 INFO [Manager] Container 'aragornContainer' logged in.
+2019-07-01T20:54:38.343 FINE [Manager] Client with handle 'Handle (0x4820002) = { type = CONTAINER, key = (0x82), id = (0x2) }' has logged in.
+2019-07-01T20:54:38.344 INFO [Manager] Container 'aragornContainer' startup statistics: 1 components queued to be activated.
+2019-07-01T20:54:38.344 INFO [Manager] Activating component 'TelegramAlarm' (Handle (0x1000004) = { type = COMPONENT, key = (0x0), id = (0x4) }) on container 'aragornContainer'.
+2019-07-01T20:54:38.346 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T20:54:38.350 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T20:54:38.350 DELOUSE [Manager] Asynchronous activation of component 'TelegramAlarm' (Handle (0x1000004) = { type = COMPONENT, key = (0x0), id = (0x4) }) is running on container 'aragornContainer'.
+2019-07-01T20:54:38.575 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 3
+2019-07-01T20:54:38.576 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ufro/cemcc/piso3/sensor_2'.
+2019-07-01T20:54:38.576 INFO [Manager] Component 'ufro/cemcc/piso3/sensor_2' (Handle (0x1000003) = { type = COMPONENT, key = (0x0), id = (0x3) }) activated successfully.
+2019-07-01T20:54:38.576 FINE [Manager] Component 'ufro/cemcc/piso3/sensor_2' (Handle (0x1000003) = { type = COMPONENT, key = (0x0), id = (0x3) }) activated.
+2019-07-01T20:54:38.577 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_2' (Handle (0x1000003) = { type = COMPONENT, key = (0x0), id = (0x3) }) has finished on container 'stContainer'.
+2019-07-01T20:54:38.578 INFO [Manager] Activating component 'ufro/cemcc/piso3/sensor_3' (Handle (0x1000005) = { type = COMPONENT, key = (0x0), id = (0x5) }) on container 'stContainer'.
+2019-07-01T20:54:38.582 INFO [Manager] 'ufro/cemcc/piso3/sensor_3' requested component 'curl:///CDB'.
+2019-07-01T20:54:38.589 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_3' (Handle (0x1000005) = { type = COMPONENT, key = (0x0), id = (0x5) }) is running on container 'stContainer'.
+2019-07-01T20:54:38.595 INFO [Manager] Component 'curl:///CDB' provided to 'ufro/cemcc/piso3/sensor_3'.
+2019-07-01T20:54:38.634 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T20:54:38.638 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T20:54:38.652 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 1
+2019-07-01T20:54:38.653 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'TelegramAlarm'.
+2019-07-01T20:54:38.653 INFO [Manager] Component 'TelegramAlarm' (Handle (0x1000004) = { type = COMPONENT, key = (0x0), id = (0x4) }) activated successfully.
+2019-07-01T20:54:38.653 FINE [Manager] Component 'TelegramAlarm' (Handle (0x1000004) = { type = COMPONENT, key = (0x0), id = (0x4) }) activated.
+2019-07-01T20:54:38.653 DELOUSE [Manager] Asynchronous activation of component 'TelegramAlarm' (Handle (0x1000004) = { type = COMPONENT, key = (0x0), id = (0x4) }) has finished on container 'aragornContainer'.
+2019-07-01T20:54:38.654 INFO [Manager] Container 'aragornContainer' startup statistics: 1 of 1 components activated.
+2019-07-01T20:54:45.589 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 4
+2019-07-01T20:54:45.590 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ufro/cemcc/piso3/sensor_3'.
+2019-07-01T20:54:45.590 INFO [Manager] Component 'ufro/cemcc/piso3/sensor_3' (Handle (0x1000005) = { type = COMPONENT, key = (0x0), id = (0x5) }) activated successfully.
+2019-07-01T20:54:45.590 FINE [Manager] Component 'ufro/cemcc/piso3/sensor_3' (Handle (0x1000005) = { type = COMPONENT, key = (0x0), id = (0x5) }) activated.
+2019-07-01T20:54:45.590 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_3' (Handle (0x1000005) = { type = COMPONENT, key = (0x0), id = (0x5) }) has finished on container 'stContainer'.
+2019-07-01T20:54:45.596 INFO [Manager] Activating component 'ufro/cemcc/piso3/sensor_4' (Handle (0x1000006) = { type = COMPONENT, key = (0x0), id = (0x6) }) on container 'stContainer'.
+2019-07-01T20:54:45.597 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_4' (Handle (0x1000006) = { type = COMPONENT, key = (0x0), id = (0x6) }) is running on container 'stContainer'.
+2019-07-01T20:54:45.599 INFO [Manager] 'ufro/cemcc/piso3/sensor_4' requested component 'curl:///CDB'.
+2019-07-01T20:54:45.603 INFO [Manager] Component 'curl:///CDB' provided to 'ufro/cemcc/piso3/sensor_4'.
+2019-07-01T20:54:52.536 FINE [Manager] ORB status: connectionThreadsUsed=0%, lost calls=0, requestQueueMaxUsePercent=0% (in POA 'null').
+2019-07-01T20:54:52.581 INFO [Manager] Request for component 'curl:///CDB' issued.
+2019-07-01T20:54:52.602 INFO [Manager] Component 'curl:///CDB' provided.
+2019-07-01T20:54:52.614 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 5
+2019-07-01T20:54:52.614 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ufro/cemcc/piso3/sensor_4'.
+2019-07-01T20:54:52.614 INFO [Manager] Component 'ufro/cemcc/piso3/sensor_4' (Handle (0x1000006) = { type = COMPONENT, key = (0x0), id = (0x6) }) activated successfully.
+2019-07-01T20:54:52.615 FINE [Manager] Component 'ufro/cemcc/piso3/sensor_4' (Handle (0x1000006) = { type = COMPONENT, key = (0x0), id = (0x6) }) activated.
+2019-07-01T20:54:52.619 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_4' (Handle (0x1000006) = { type = COMPONENT, key = (0x0), id = (0x6) }) has finished on container 'stContainer'.
+2019-07-01T20:54:52.619 INFO [Manager] Activating component 'ufro/cemcc/piso3/sensor_5' (Handle (0x1000007) = { type = COMPONENT, key = (0x0), id = (0x7) }) on container 'stContainer'.
+2019-07-01T20:54:52.621 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_5' (Handle (0x1000007) = { type = COMPONENT, key = (0x0), id = (0x7) }) is running on container 'stContainer'.
+2019-07-01T20:54:52.625 INFO [Manager] 'ufro/cemcc/piso3/sensor_5' requested component 'curl:///CDB'.
+2019-07-01T20:54:52.650 INFO [Manager] Component 'curl:///CDB' provided to 'ufro/cemcc/piso3/sensor_5'.
+2019-07-01T20:54:53.177 FINE [Manager] 'frodoContainer' is logging in.
+2019-07-01T20:54:53.178 INFO [Manager] Container 'frodoContainer' logged in.
+2019-07-01T20:54:53.178 FINE [Manager] Client with handle 'Handle (0x4770003) = { type = CONTAINER, key = (0x77), id = (0x3) }' has logged in.
+2019-07-01T20:54:53.178 INFO [Manager] Container 'frodoContainer' startup statistics: 2 components queued to be activated.
+2019-07-01T20:54:53.179 INFO [Manager] Activating component 'ARCHIVE/TMCDB/MONITOR_CONTROL' (Handle (0x1000008) = { type = COMPONENT, key = (0x0), id = (0x8) }) on container 'frodoContainer'.
+2019-07-01T20:54:53.192 DELOUSE [Manager] Asynchronous activation of component 'ARCHIVE/TMCDB/MONITOR_CONTROL' (Handle (0x1000008) = { type = COMPONENT, key = (0x0), id = (0x8) }) is running on container 'frodoContainer'.
+2019-07-01T20:54:53.424 INFO [Manager] 'frodoContainer' requested component 'curl:///Log'.
+2019-07-01T20:54:53.428 INFO [Manager] Component 'curl:///Log' provided to 'frodoContainer'.
+2019-07-01T20:54:53.501 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 1
+2019-07-01T20:54:53.501 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:54:53.502 INFO [Manager] Component 'ARCHIVE/TMCDB/MONITOR_CONTROL' (Handle (0x1000008) = { type = COMPONENT, key = (0x0), id = (0x8) }) activated successfully.
+2019-07-01T20:54:53.502 FINE [Manager] Component 'ARCHIVE/TMCDB/MONITOR_CONTROL' (Handle (0x1000008) = { type = COMPONENT, key = (0x0), id = (0x8) }) activated.
+2019-07-01T20:54:53.503 DELOUSE [Manager] Asynchronous activation of component 'ARCHIVE/TMCDB/MONITOR_CONTROL' (Handle (0x1000008) = { type = COMPONENT, key = (0x0), id = (0x8) }) has finished on container 'frodoContainer'.
+2019-07-01T20:54:53.503 INFO [Manager] Activating component 'ARCHIVE/TMCDB/MONITOR_BLOBBER' (Handle (0x1000009) = { type = COMPONENT, key = (0x0), id = (0x9) }) on container 'frodoContainer'.
+2019-07-01T20:54:53.507 DELOUSE [Manager] Asynchronous activation of component 'ARCHIVE/TMCDB/MONITOR_BLOBBER' (Handle (0x1000009) = { type = COMPONENT, key = (0x0), id = (0x9) }) is running on container 'frodoContainer'.
+2019-07-01T20:54:54.165 INFO [Manager] 'ARCHIVE/TMCDB/MONITOR_BLOBBER' requested component 'curl:///TelegramAlarm'.
+2019-07-01T20:54:54.167 INFO [Manager] Component 'curl:///TelegramAlarm' provided to 'ARCHIVE/TMCDB/MONITOR_BLOBBER'.
+2019-07-01T20:54:54.273 INFO [Manager] Getting default component for type 'IDL:alma/MonitorArchiver/Controller:1.0'.
+2019-07-01T20:54:54.287 INFO [Manager] 'ARCHIVE/TMCDB/MONITOR_BLOBBER' requested async release of component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:54:54.289 FINE [Manager] Component 'ARCHIVE/TMCDB/MONITOR_CONTROL' (Handle (0x1000008) = { type = COMPONENT, key = (0x0), id = (0x8) }) released.
+2019-07-01T20:54:54.293 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 2
+2019-07-01T20:54:54.293 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ARCHIVE/TMCDB/MONITOR_BLOBBER'.
+2019-07-01T20:54:54.294 INFO [Manager] Component 'ARCHIVE/TMCDB/MONITOR_BLOBBER' (Handle (0x1000009) = { type = COMPONENT, key = (0x0), id = (0x9) }) activated successfully.
+2019-07-01T20:54:54.294 FINE [Manager] Component 'ARCHIVE/TMCDB/MONITOR_BLOBBER' (Handle (0x1000009) = { type = COMPONENT, key = (0x0), id = (0x9) }) activated.
+2019-07-01T20:54:54.299 DELOUSE [Manager] Asynchronous activation of component 'ARCHIVE/TMCDB/MONITOR_BLOBBER' (Handle (0x1000009) = { type = COMPONENT, key = (0x0), id = (0x9) }) has finished on container 'frodoContainer'.
+2019-07-01T20:54:54.299 INFO [Manager] Container 'frodoContainer' startup statistics: 2 of 2 components activated.
+2019-07-01T20:54:59.634 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 6
+2019-07-01T20:54:59.635 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'ufro/cemcc/piso3/sensor_5'.
+2019-07-01T20:54:59.635 INFO [Manager] Component 'ufro/cemcc/piso3/sensor_5' (Handle (0x1000007) = { type = COMPONENT, key = (0x0), id = (0x7) }) activated successfully.
+2019-07-01T20:54:59.635 FINE [Manager] Component 'ufro/cemcc/piso3/sensor_5' (Handle (0x1000007) = { type = COMPONENT, key = (0x0), id = (0x7) }) activated.
+2019-07-01T20:54:59.636 DELOUSE [Manager] Asynchronous activation of component 'ufro/cemcc/piso3/sensor_5' (Handle (0x1000007) = { type = COMPONENT, key = (0x0), id = (0x7) }) has finished on container 'stContainer'.
+2019-07-01T20:54:59.636 INFO [Manager] Container 'stContainer' startup statistics: 5 of 6 components activated.
+2019-07-01T20:55:20.815 FINE [Manager] 'acsCORBA Client' is logging in.
+2019-07-01T20:55:20.815 INFO [Manager] Client 'acsCORBA Client' logged in.
+2019-07-01T20:55:20.815 FINE [Manager] Client with handle 'Handle (0x2ce0002) = { type = CLIENT, key = (0xce), id = (0x2) }' has logged in.
+2019-07-01T20:55:20.817 INFO [Manager] 'acsCORBA Client' requested component 'curl:///ACSLogSvc'.
+2019-07-01T20:55:20.821 INFO [Manager] Component 'curl:///ACSLogSvc' provided to 'acsCORBA Client'.
+2019-07-01T20:55:20.828 FINE [Manager] 'Python Client: initialized by scarrasco03@pillan' is logging in.
+2019-07-01T20:55:20.828 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged in.
+2019-07-01T20:55:20.828 FINE [Manager] Client with handle 'Handle (0x2450003) = { type = CLIENT, key = (0x45), id = (0x3) }' has logged in.
+2019-07-01T20:55:20.829 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T20:55:20.835 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T20:55:20.907 Python Client: initialized by scarrasco03@pillan Main - We can directly manipulate a device once we get it, which is easy.
+2019-07-01T20:55:20.916 INFO [Manager] 'Python Client: initialized by scarrasco03@pillan' requested component 'curl:///MONITOR_COLLECTOR'.
+2019-07-01T20:55:20.916 INFO [Manager] Activating component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) on container 'stContainer'.
+2019-07-01T20:55:20.918 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) is running on container 'stContainer'.
+2019-07-01T20:55:20.948 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:55:20.948 FINE [Manager] Non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:20.954 INFO [Manager] 'ARCHIVE/TMCDB/MONITOR_CONTROL' requested component 'curl:///ARCHIVE/TMCDB/MONITOR_BLOBBER'.
+2019-07-01T20:55:20.954 INFO [Manager] Component 'curl:///ARCHIVE/TMCDB/MONITOR_BLOBBER' provided to 'ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:55:21.000 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 7
+2019-07-01T20:55:21.000 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:21.000 INFO [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) activated successfully.
+2019-07-01T20:55:21.001 FINE [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) activated.
+2019-07-01T20:55:21.001 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) has finished on container 'stContainer'.
+2019-07-01T20:55:21.001 INFO [Manager] Component 'curl:///MONITOR_COLLECTOR' provided to 'Python Client: initialized by scarrasco03@pillan'.
+2019-07-01T20:55:21.006 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_1'.
+2019-07-01T20:55:21.006 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_1' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:21.096 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_2'.
+2019-07-01T20:55:21.096 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_2' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:21.190 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_3'.
+2019-07-01T20:55:21.190 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_3' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:21.437 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_4'.
+2019-07-01T20:55:21.438 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_4' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:21.639 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_5'.
+2019-07-01T20:55:21.640 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_5' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:55:21.848 Python Client: initialized by scarrasco03@pillan disconnect - Disconnect called for client
+2019-07-01T20:55:21.849 FINE [Manager] Client with handle 'Handle (0x2450003) = { type = CLIENT, key = (0x45), id = (0x3) }' is logging out.
+2019-07-01T20:55:21.850 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged out.
+2019-07-01T20:55:21.851 INFO [Manager] Deactivating component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) on container 'stContainer'.
+2019-07-01T20:55:21.852 FINE [Manager] Client with handle 'Handle (0x2ce0002) = { type = CLIENT, key = (0xce), id = (0x2) }' is logging out.
+2019-07-01T20:55:21.853 INFO [Manager] Client 'acsCORBA Client' logged out.
+2019-07-01T20:55:21.953 INFO [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) deactivated.
+2019-07-01T20:55:21.954 FINE [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000a) = { type = COMPONENT, key = (0x0), id = (0xa) }) released.
+2019-07-01T20:58:34.777 FINE [Manager] ORB status: connectionThreadsUsed=0%, lost calls=0, requestQueueMaxUsePercent=0% (in POA 'null').
+2019-07-01T20:58:34.794 FINE [Manager] 'acsCORBA Client' is logging in.
+2019-07-01T20:58:34.794 INFO [Manager] Client 'acsCORBA Client' logged in.
+2019-07-01T20:58:34.794 FINE [Manager] Client with handle 'Handle (0x2a00004) = { type = CLIENT, key = (0xa0), id = (0x4) }' has logged in.
+2019-07-01T20:58:34.795 INFO [Manager] 'acsCORBA Client' requested component 'curl:///ACSLogSvc'.
+2019-07-01T20:58:34.798 INFO [Manager] Component 'curl:///ACSLogSvc' provided to 'acsCORBA Client'.
+2019-07-01T20:58:34.806 FINE [Manager] 'Python Client: initialized by scarrasco03@pillan' is logging in.
+2019-07-01T20:58:34.806 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged in.
+2019-07-01T20:58:34.806 FINE [Manager] Client with handle 'Handle (0x2000005) = { type = CLIENT, key = (0x0), id = (0x5) }' has logged in.
+2019-07-01T20:58:34.809 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T20:58:34.813 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T20:58:34.892 INFO [Manager] 'Python Client: initialized by scarrasco03@pillan' requested component 'curl:///MONITOR_COLLECTOR'.
+2019-07-01T20:58:34.893 INFO [Manager] Activating component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) on container 'stContainer'.
+2019-07-01T20:58:34.895 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) is running on container 'stContainer'.
+2019-07-01T20:58:34.923 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:58:34.923 FINE [Manager] Non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:34.968 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 8
+2019-07-01T20:58:34.969 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:34.969 INFO [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) activated successfully.
+2019-07-01T20:58:34.969 FINE [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) activated.
+2019-07-01T20:58:34.970 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) has finished on container 'stContainer'.
+2019-07-01T20:58:34.970 INFO [Manager] Component 'curl:///MONITOR_COLLECTOR' provided to 'Python Client: initialized by scarrasco03@pillan'.
+2019-07-01T20:58:34.974 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_1'.
+2019-07-01T20:58:34.974 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_1' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:35.005 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_2'.
+2019-07-01T20:58:35.005 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_2' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:35.035 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_3'.
+2019-07-01T20:58:35.035 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_3' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:35.063 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_4'.
+2019-07-01T20:58:35.063 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_4' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:35.114 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_5'.
+2019-07-01T20:58:35.114 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_5' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:58:35.175 FINE [Manager] Client with handle 'Handle (0x2000005) = { type = CLIENT, key = (0x0), id = (0x5) }' is logging out.
+2019-07-01T20:58:35.175 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged out.
+2019-07-01T20:58:35.175 INFO [Manager] Deactivating component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) on container 'stContainer'.
+2019-07-01T20:58:35.176 FINE [Manager] Client with handle 'Handle (0x2a00004) = { type = CLIENT, key = (0xa0), id = (0x4) }' is logging out.
+2019-07-01T20:58:35.177 INFO [Manager] Client 'acsCORBA Client' logged out.
+2019-07-01T20:58:35.231 INFO [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) deactivated.
+2019-07-01T20:58:35.231 FINE [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000b) = { type = COMPONENT, key = (0x0), id = (0xb) }) released.
+2019-07-01T20:59:02.860 FINE [Manager] ORB status: connectionThreadsUsed=0%, lost calls=0, requestQueueMaxUsePercent=0% (in POA 'null').
+2019-07-01T20:59:02.870 FINE [Manager] 'acsCORBA Client' is logging in.
+2019-07-01T20:59:02.870 INFO [Manager] Client 'acsCORBA Client' logged in.
+2019-07-01T20:59:02.870 FINE [Manager] Client with handle 'Handle (0x2760006) = { type = CLIENT, key = (0x76), id = (0x6) }' has logged in.
+2019-07-01T20:59:02.871 INFO [Manager] 'acsCORBA Client' requested component 'curl:///ACSLogSvc'.
+2019-07-01T20:59:02.874 INFO [Manager] Component 'curl:///ACSLogSvc' provided to 'acsCORBA Client'.
+2019-07-01T20:59:02.882 FINE [Manager] 'Python Client: initialized by scarrasco03@pillan' is logging in.
+2019-07-01T20:59:02.882 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged in.
+2019-07-01T20:59:02.882 FINE [Manager] Client with handle 'Handle (0x2e00007) = { type = CLIENT, key = (0xe0), id = (0x7) }' has logged in.
+2019-07-01T20:59:02.884 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T20:59:02.888 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T20:59:02.967 INFO [Manager] 'Python Client: initialized by scarrasco03@pillan' requested component 'curl:///MONITOR_COLLECTOR'.
+2019-07-01T20:59:02.967 INFO [Manager] Activating component 'MONITOR_COLLECTOR' (Handle (0x100000c) = { type = COMPONENT, key = (0x0), id = (0xc) }) on container 'stContainer'.
+2019-07-01T20:59:02.969 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x100000c) = { type = COMPONENT, key = (0x0), id = (0xc) }) is running on container 'stContainer'.
+2019-07-01T20:59:02.996 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2019-07-01T20:59:02.996 FINE [Manager] Non-sticky component 'curl:///ARCHIVE/TMCDB/MONITOR_CONTROL' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:03.033 DEBUG [Manager-ContainerProxy] CBComponentInfo.done called with desc.id_tag = 9
+2019-07-01T20:59:03.033 DEBUG [Manager] Container responded with 'done' callback to indicate activation of a component 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:03.033 INFO [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000c) = { type = COMPONENT, key = (0x0), id = (0xc) }) activated successfully.
+2019-07-01T20:59:03.034 FINE [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000c) = { type = COMPONENT, key = (0x0), id = (0xc) }) activated.
+2019-07-01T20:59:03.034 DELOUSE [Manager] Asynchronous activation of component 'MONITOR_COLLECTOR' (Handle (0x100000c) = { type = COMPONENT, key = (0x0), id = (0xc) }) has finished on container 'stContainer'.
+2019-07-01T20:59:03.034 INFO [Manager] Component 'curl:///MONITOR_COLLECTOR' provided to 'Python Client: initialized by scarrasco03@pillan'.
+2019-07-01T20:59:03.037 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_1'.
+2019-07-01T20:59:03.038 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_1' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:03.069 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_2'.
+2019-07-01T20:59:03.070 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_2' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:03.098 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_3'.
+2019-07-01T20:59:03.098 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_3' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:03.126 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_4'.
+2019-07-01T20:59:03.126 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_4' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:03.203 FINE [Manager] 'MONITOR_COLLECTOR' requested non-sticky component 'curl:///ufro/cemcc/piso3/sensor_5'.
+2019-07-01T20:59:03.203 FINE [Manager] Non-sticky component 'curl:///ufro/cemcc/piso3/sensor_5' provided to 'MONITOR_COLLECTOR'.
+2019-07-01T20:59:14.293 INFO [Manager] 'ARCHIVE/TMCDB/MONITOR_BLOBBER' requested component 'curl:///MONITOR_COLLECTOR'.
+2019-07-01T20:59:14.293 INFO [Manager] Component 'curl:///MONITOR_COLLECTOR' provided to 'ARCHIVE/TMCDB/MONITOR_BLOBBER'.
+2019-07-01T21:02:31.325 FINE [Manager] ORB status: connectionThreadsUsed=0%, lost calls=0, requestQueueMaxUsePercent=0% (in POA 'null').
+2019-07-01T21:02:31.335 FINE [Manager] 'acsCORBA Client' is logging in.
+2019-07-01T21:02:31.335 INFO [Manager] Client 'acsCORBA Client' logged in.
+2019-07-01T21:02:31.335 FINE [Manager] Client with handle 'Handle (0x2400008) = { type = CLIENT, key = (0x40), id = (0x8) }' has logged in.
+2019-07-01T21:02:31.337 INFO [Manager] 'acsCORBA Client' requested component 'curl:///ACSLogSvc'.
+2019-07-01T21:02:31.339 INFO [Manager] Component 'curl:///ACSLogSvc' provided to 'acsCORBA Client'.
+2019-07-01T21:02:31.347 FINE [Manager] 'Python Client: initialized by scarrasco03@pillan' is logging in.
+2019-07-01T21:02:31.347 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged in.
+2019-07-01T21:02:31.347 FINE [Manager] Client with handle 'Handle (0x29a0009) = { type = CLIENT, key = (0x9a), id = (0x9) }' has logged in.
+2019-07-01T21:02:31.348 INFO [Manager] 'acsCORBA Client' requested component 'curl:///CDB'.
+2019-07-01T21:02:31.351 INFO [Manager] Component 'curl:///CDB' provided to 'acsCORBA Client'.
+2019-07-01T21:02:31.354 INFO [Manager] 'Python Client: initialized by scarrasco03@pillan' requested component 'curl:///TelegramAlarm'.
+2019-07-01T21:02:31.354 INFO [Manager] Component 'curl:///TelegramAlarm' provided to 'Python Client: initialized by scarrasco03@pillan'.
+2019-07-01 17:02:32,262 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:32,297 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:35,786 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:35,835 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:36,324 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:36,364 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:40,087 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:40,102 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:40,831 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:40,881 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:45,106 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:45,118 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:46,345 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:46,350 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:51,576 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:51,589 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:53,818 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:53,823 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:02:58,048 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:02:58,059 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:03:02,289 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:03:02,307 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:03:10,534 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:03:10,584 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:03:18,822 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:03:18,829 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:03:35,072 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:03:35,107 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:03:51,358 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:03:51,362 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:04:23,612 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:04:23,657 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:04:27,148 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:04:27,165 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:05:31,483 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:05:31,486 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:05:34,976 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:05:34,989 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:07:43,324 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:07:43,370 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:07:46,859 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:07:46,905 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:12:03,228 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:12:03,234 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:12:06,724 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:12:06,768 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01T21:13:15.580 FINE [Manager] ORB status: connectionThreadsUsed=0%, lost calls=0, requestQueueMaxUsePercent=0% (in POA 'null').
+2019-07-01T21:13:15.581 FINE [Manager] Client with handle 'Handle (0x2e00007) = { type = CLIENT, key = (0xe0), id = (0x7) }' is logging out.
+2019-07-01T21:13:15.582 INFO [Manager] Client 'Python Client: initialized by scarrasco03@pillan' logged out.
+2019-07-01T21:13:15.582 FINE [Manager] Component 'MONITOR_COLLECTOR' (Handle (0x100000c) = { type = COMPONENT, key = (0x0), id = (0xc) }) released.
+2019-07-01T21:13:15.583 FINE [Manager] Client with handle 'Handle (0x2760006) = { type = CLIENT, key = (0x76), id = (0x6) }' is logging out.
+2019-07-01T21:13:15.583 INFO [Manager] Client 'acsCORBA Client' logged out.
+2019-07-01 17:20:39,097 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:20:39,132 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:20:42,622 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:20:42,633 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:37:47,704 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:37:47,749 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 17:37:51,249 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 17:37:51,285 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 18:12:00,326 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 18:12:00,348 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 18:12:03,844 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 18:12:03,889 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 19:20:20,903 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 19:20:20,921 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 19:20:24,409 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 19:20:24,455 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 21:36:57,543 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 21:36:57,554 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-01 21:37:01,063 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-01 21:37:01,069 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-02T02:52:22.987 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.173.35.57:63414 from [200.13.6.10:3000] (7badf4d0), incorrect magic number --> connection closed
+2019-07-02 02:10:06,127 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-02 02:10:06,135 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-02 02:10:09,632 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-02 02:10:09,682 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-02T12:42:10.673 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 188.246.224.47:60000 from [200.13.6.10:3000] (756a15d5), incorrect magic number --> connection closed
+2019-07-02T13:59:07.189 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.137.233.237:60000 from [200.13.6.10:3000] (71559fa0), incorrect magic number --> connection closed
+2019-07-02 11:16:18,720 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-02 11:16:18,723 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-02 11:16:22,215 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-02 11:16:22,248 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-03T00:03:12.591 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 172.104.242.173:56769 from [200.13.6.10:3000] (34571fee), incorrect magic number --> connection closed
+2019-07-03T04:12:00.435 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 173.72.101.149:30927 from [200.13.6.10:3000] (20c866c0), incorrect magic number --> connection closed
+2019-07-03T05:10:42.179 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.222.211.18:2277 from [200.13.6.10:3000] (5290bb1), incorrect magic number --> connection closed
+2019-07-03 05:28:39,299 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-03 05:28:39,347 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-03 05:28:42,856 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-03 05:28:42,863 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-03T15:10:30.288 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 162.243.151.182:34708 from [200.13.6.10:3000] (585c2c2b), incorrect magic number --> connection closed
+2019-07-04T05:14:18.317 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.222.211.18:811 from [200.13.6.10:3000] (2a32e484), incorrect magic number --> connection closed
+2019-07-04 17:53:15,907 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-04 17:53:15,945 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-04 17:53:19,443 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-04 17:53:19,473 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-05T06:23:13.914 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.173.35.29:57555 from [200.13.6.10:3000] (24f51fb2), incorrect magic number --> connection closed
+2019-07-05T23:45:55.786 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.254.120.37:22228 from [200.13.6.10:3000] (20ca8ff4), incorrect magic number --> connection closed
+2019-07-05T23:45:55.792 SEVERE [jacorb@CDB] Failed to read GIOP message in ServerGIOPConnection to 185.254.120.37:22304 from [200.13.6.10:3012] (5abd53d1), incorrect magic number --> connection closed
+2019-07-05T23:45:55.799 SEVERE [jacorb@AlarmService] Failed to read GIOP message in ServerGIOPConnection to 185.254.120.37:22204 from [200.13.6.10:3013] (1dd2ea28), incorrect magic number --> connection closed
+2019-07-05T23:45:57.040 SEVERE [jacorb@CDB] Failed to read GIOP message in ServerGIOPConnection to 185.254.120.37:36344 from [200.13.6.10:3012] (547ab6f6), incorrect magic number --> connection closed
+2019-07-05T23:45:57.100 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.254.120.37:36794 from [200.13.6.10:3000] (65c81589), incorrect magic number --> connection closed
+2019-07-05T23:45:57.182 SEVERE [jacorb@AlarmService] Failed to read GIOP message in ServerGIOPConnection to 185.254.120.37:37483 from [200.13.6.10:3013] (131507e2), incorrect magic number --> connection closed
+2019-07-06T02:57:24.380 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 92.63.194.3:677 from [200.13.6.10:3000] (5863db70), incorrect magic number --> connection closed
+2019-07-07T12:15:55.869 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 92.63.194.3:1431 from [200.13.6.10:3000] (54675741), incorrect magic number --> connection closed
+2019-07-07 18:42:24,477 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-07 18:42:24,518 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-07 18:42:28,005 (util.py:65 PollingThread) ERROR - TeleBot: "ApiException occurred, args=('A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:\n[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]',)
+Traceback (most recent call last):
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 276, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/__init__.py", line 246, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 180, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 56, in _make_request
+    return _check_result(method_name, result)['result']
+  File "/alma/ACS-2018FEB/Python/lib/python2.7/site-packages/telebot/apihelper.py", line 75, in _check_result
+    raise ApiException(msg, method_name, result)
+ApiException: A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]
+"
+2019-07-07 18:42:28,033 (__init__.py:417 MainThread) ERROR - TeleBot: "A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[{"ok":false,"error_code":409,"description":"Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"}]"
+2019-07-08T04:27:10.527 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 71.6.232.5:53526 from [200.13.6.10:3000] (2026c716), incorrect magic number --> connection closed
+2019-07-08T06:22:36.783 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 92.63.194.15:1743 from [200.13.6.10:3000] (5e7eac6), incorrect magic number --> connection closed
+2019-07-08T08:51:05.625 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 92.119.160.95:121 from [200.13.6.10:3000] (43190951), incorrect magic number --> connection closed
+2019-07-08T10:40:15.653 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 198.108.67.48:7462 from [200.13.6.10:3000] (2daa832c), incorrect magic number --> connection closed
+2019-07-08T10:40:15.957 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 198.108.67.48:9348 from [200.13.6.10:3000] (3b22eff8), incorrect magic number --> connection closed
+2019-07-10T03:37:42.964 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 196.52.43.59:52026 from [200.13.6.10:3000] (1a99380), incorrect magic number --> connection closed
+2019-07-10T10:52:34.723 SEVERE [jacorb@Manager] Failed to read GIOP message in ServerGIOPConnection to 185.156.177.156:1342 from [200.13.6.10:3000] (a715165), incorrect magic number --> connection closed

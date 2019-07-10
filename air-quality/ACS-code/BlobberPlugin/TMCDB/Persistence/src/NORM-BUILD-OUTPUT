@@ -1,0 +1,3211 @@
+make[1]: Entering directory `/home/almamgr/Desktop/archive/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/almamgr/Desktop/archive/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/almamgr/Desktop/archive/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/almamgr/Desktop/archive/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:09.31
+make[1]: Entering directory `/home/almamgr/Desktop/archive/TMCDB/Persistence/src'
+...other files
+	../lib/asm-1.5.3.jar
+	../lib/asm-attrs-1.5.3.jar
+	../lib/c3p0-0.9.5.2.jar
+	../lib/hibernate-entitymanager.jar
+	../lib/mchange-commons-java-0.2.11.jar
+
+ Copying current files 
+        from: /home/almamgr/Desktop/archive/TMCDB/Persistence/src
+          to: /alma/ACS-FEB2017/ACSSW/Sources/Persistence/src
+        from: /home/almamgr/Desktop/archive/TMCDB/Persistence/include
+          to: /alma/ACS-FEB2017/ACSSW/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/almamgr/Desktop/archive/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+/bin/ksh[9]: /usr/bin/time: not found [No such file or directory]
+### ==> FAILED all ! 
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+	../lib/asm-1.5.3.jar
+	../lib/asm-attrs-1.5.3.jar
+	../lib/c3p0-0.9.5.2.jar
+	../lib/hibernate-entitymanager.jar
+	../lib/mchange-commons-java-0.2.11.jar
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /alma/ACS-2018FEB/ACSSW/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+	../lib/asm-1.5.3.jar
+	../lib/asm-attrs-1.5.3.jar
+	../lib/c3p0-0.9.5.2.jar
+	../lib/hibernate-entitymanager.jar
+	../lib/mchange-commons-java-0.2.11.jar
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.29
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.48
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.51
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.36
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.51
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.45
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.31
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.44
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.57
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.43
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.70
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.52
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:03.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.36
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.31
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:03.29
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.37
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.44
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+alma/archive/tmcdb/persistence/TMCDBConfig.java:230: error: incompatible types: String cannot be converted to Long
+		rectifyTime = dbConfig.get("archive.tmcdb.monitoring.rectifyTime");
+		                          ^
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 error
+make[2]: *** [/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src/../lib/TMCDBPersistenceLayer.jar] Error 1
+make[2]: Target `do_all_aux' not remade because of errors.
+make[1]: *** [do_all] Error 2
+make[1]: Target `all' not remade because of errors.
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:01.93
+### ==> FAILED all ! 
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+== Making Jarfile TMCDBPersistenceLayer.jar
+alma/archive/tmcdb/persistence/TMCDBConfig.java:230: error: incompatible types: String cannot be converted to Long
+		rectifyTime = dbConfig.get("archive.tmcdb.monitoring.rectifyTime");
+		                          ^
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 error
+make[1]: *** [/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src/../lib/TMCDBPersistenceLayer.jar] Error 1
+.....exe:
+make[1]: Target `install' not remade because of errors.
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+### ==> FAILED install ! 
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.36
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.53
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.53
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.44
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.37
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.55
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.43
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.46
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.81
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.50
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.45
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+### ==> FAILED all ! 
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.46
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.44
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.49
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.46
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.52
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.44
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:04.27
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.57
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.57
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.34
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.42
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.41
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.58
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.36
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.35
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.42
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.37
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.32
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.38
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.43
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.39
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.30
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.33
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.50
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+Cleaning up . . . . .
+ . . . 'clean' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+== Making Jarfile TMCDBPersistenceLayer.jar
+Note: alma/archive/tmcdb/persistence/TMCDBConfig.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+ . . . 'all' done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+TMCDB/Persistence/src COMPILATION TIME 0:02.40
+make[1]: Entering directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'
+...other files
+
+ Copying current files 
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/src
+        from: /home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/include
+          to: /home/astro/scarrasco03/INTROOT/Sources/Persistence/include
+                                               . . . done 
+
+.....java:
+installing jarfile TMCDBPersistenceLayer
+.....exe:
+ . . . installation done
+make[1]: Leaving directory `/home/astro/scarrasco03/mqtt.devio.acs/BlobberPlugin/TMCDB/Persistence/src'

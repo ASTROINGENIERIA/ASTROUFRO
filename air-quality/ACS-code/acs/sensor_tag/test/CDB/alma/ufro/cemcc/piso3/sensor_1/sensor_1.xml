@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SensorTag xmlns="urn:schemas-cosylab-com:SensorTag:1.0"
+       xmlns:baci="urn:schemas-cosylab-com:BACI:1.0"
+	   xmlns:cdb="urn:schemas-cosylab-com:CDB:1.0"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	broker="200.13.6.10" client_id="01">
+ <temperature default_timer_trig="1.0"
+		description="temperature Prop"
+		units="deg"
+		graph_min="-20.0"
+		graph_max="40.0"
+		archive_min_int="0.0"
+		archive_max_int="30.0" />
+  <light  default_timer_trig="1.0"
+		description="light Prop"
+		units="deg"
+		graph_min="0.0"
+		graph_max="100.0"
+		archive_min_int="0.0"
+		archive_max_int="30.0" />
+  <pressure  default_timer_trig="1.0"
+		description="pressure Prop"
+		units="%"
+		graph_min="0.0"
+		graph_max="100.0"
+		archive_min_int="0.0"
+		archive_max_int="30.0" />
+<humidity  default_timer_trig="1.0"
+		description="humidity Prop"
+		units="%"
+		graph_min="0.0"
+		graph_max="100.0"
+		archive_min_int="0.0"
+		archive_max_int="30.0" />
+<dioxide  default_timer_trig="1.0"
+		description="dioxide Prop"
+		units="%"
+		graph_min="0.0"
+		graph_max="100.0"
+		archive_min_int="0.0"
+		archive_max_int="30.0" />
+<oxygen  default_timer_trig="1.0"
+		description="oxygen Prop"
+		units="%"
+		graph_min="0.0"
+		graph_max="100.0"
+		archive_min_int="0.0"
+		archive_max_int="30.0" />	
+  <time  default_timer_trig="1.0"
+                description="time Prop"
+                units="%lli"
+                archive_min_int="0"
+                archive_max_int="30" />
+</SensorTag>
+

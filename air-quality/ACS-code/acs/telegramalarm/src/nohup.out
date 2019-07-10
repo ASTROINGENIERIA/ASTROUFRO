@@ -1,0 +1,1437 @@
+2018-12-02T19:44:58.639 INFO [acsStartContainer] Running the container with these arguments: 'maciContainer stContainer -ORBEndpoint iiop://200.13.6.10:4002 -m corbaloc::200.13.6.10:3000/Manager'
+Starting Container...
+Retrieving CDB reference from Manager using bootstrap ORB
+Bootstrap ORB parms: maciContainer stContainer -m corbaloc::200.13.6.10:3000/Manager
+ManagerReference obtained via command line: 'corbaloc::200.13.6.10:3000/Manager'
+Resolving reference: 'corbaloc::200.13.6.10:3000/Manager'
+Manager reference narrowed.
+Manager hostname generated using localhost address: '200.13.6.10'
+ContainerStatusMsg: Startup begins
+ContainerStatusMsg: ORB initialization begins
+2018-12-02T19:44:58.745 [main - maci::ContainerImpl::initThread] Thread name: 'main'
+2018-12-02T19:44:58.746 [stContainer - maci::ContainerImpl::init] Generated CommandLine: maciContainer stContainer -ORBEndpoint iiop://200.13.6.10:4002 -m corbaloc::200.13.6.10:3000/Manager  -ORBDottedDecimalAddresses 1 -ORBInitRef InterfaceRepository=corbaloc::200.13.6.10:3004/InterfaceRepository
+2018-12-02T19:44:58.746 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.746 Local file logger: Cache saved to '/alma/ACS-2018FEB/acsdata/tmp/pillan/ACS_INSTANCE.0/acs_local_log_stContainer_27825'.
+2018-12-02T19:44:58.747 [stContainer - maci::ContainerImpl::init] Destroy bootstrap ORB
+ContainerStatusMsg: ORB initialization ends
+2018-12-02T19:44:58.750 [stContainer - maci::ContainerImpl::getManager] Resolving manager...
+2018-12-02T19:44:58.752 [stContainer-GL - maci::MACIHelper::resolveManager] ManagerReference obtained via command line: 'corbaloc::200.13.6.10:3000/Manager'
+2018-12-02T19:44:58.752 [stContainer-GL - maci::MACIHelper::resolveManager] Resolving reference: 'corbaloc::200.13.6.10:3000/Manager'
+2018-12-02T19:44:58.753 [stContainer-GL - maci::MACIHelper::resolveManager] Manager reference narrowed.
+2018-12-02T19:44:58.759 [stContainer-GL - ] Using ACS alarm system
+2018-12-02T19:44:58.760 [stContainer - maci::Container::init] Recovery enabled.
+2018-12-02T19:44:58.760 [stContainer - maci::ContainerImpl::init] Using DLL path: /home/astro/scarrasco03/INTROOT/lib:/alma/ACS-2018FEB/ACSSW/lib:/alma/ACS-2018FEB/DDS/build/linux/lib:/alma/ACS-2018FEB/TAO/ACE_wrappers/build/linux/lib:/alma/ACS-2018FEB/Python/lib:/alma/ACS-2018FEB/Python/omni/lib:/alma/ACS-2018FEB/boost/lib:/alma/ACS-2018FEB/tcltk/lib:
+2018-12-02T19:44:58.761 [stContainer - maci::ContainerImpl::init] Container 'stContainer' activated.
+2018-12-02T19:44:58.761 [stContainer - maci::ContainerImpl::init] Autoloading 'baci'
+2018-12-02T19:44:58.761 [maci::LibraryManager - maci::LibraryManager::load] Request to load 'baci'.
+2018-12-02T19:44:58.761 [maci::LibraryManager - maci::LibraryManager::load] Full path '/home/astro/scarrasco03/INTROOT/lib/libbaci.so'
+2018-12-02T19:44:58.762 [maci::LibraryManager - maci::LibraryManager::load] Loading '/home/astro/scarrasco03/INTROOT/lib/libbaci.so'.
+2018-12-02T19:44:58.768 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.768 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.768 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.769 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.769 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.791 [maci::LibraryManager - maci::LibraryManager::load] Executing DLLOpen
+2018-12-02T19:44:58.791 [stContainer-GL - baci::BACIRecoveryManager::BACIRecoveryManager] Recovery filename: '/alma/ACS-2018FEB/acsdata/tmp/pillan/ACS_INSTANCE.0/baci_recovery_stContainer.'
+2018-12-02T19:44:58.792 [stContainer-GL - recovery::RecoveryStore::load] Unable to open recovery file (r) '/alma/ACS-2018FEB/acsdata/tmp/pillan/ACS_INSTANCE.0/baci_recovery_stContainer'
+2018-12-02T19:44:58.792 [maci::LibraryManager - maci::LibraryManager::load] DLLOpen executed.
+2018-12-02T19:44:58.792 [maci::LibraryManager - maci::LibraryManager::load] Loaded '/home/astro/scarrasco03/INTROOT/lib/libbaci.so'.
+2018-12-02T19:44:58.793 [maci::LibraryManager - maci::LibraryManager::setupCORBAinDLL] Trying to call setup CORBA in '/home/astro/scarrasco03/INTROOT/lib/libbaci.so'
+2018-12-02T19:44:58.793 [maci::LibraryManager - maci::LibraryManager::setupCORBAinDLL] Executing DLLSetupCORBA
+2018-12-02T19:44:58.793 [maci::LibraryManager - maci::LibraryManager::setupCORBAinDLL] DLLSetupCORBA executed
+2018-12-02T19:44:58.793 [maci::LibraryManager - maci::LibraryManager::initThreadsInDLL] Trying to init threads in '/home/astro/scarrasco03/INTROOT/lib/libbaci.so'
+2018-12-02T19:44:58.794 [maci::LibraryManager - maci::LibraryManager::initThreadsInDLL] Executing DLLInitThreads
+2018-12-02T19:44:58.794 [maci::LibraryManager - maci::LibraryManager::initThreadsInDLL] DLLInitThreads executed
+2018-12-02T19:44:58.794 [stContainer - maci::ContainerImpl::init] Container 'stContainer' initialized successfuly
+2018-12-02T19:44:58.796 [stContainer - maci::ContainerImpl::init] Connected to the InterfaceRepository.
+ContainerStatusMsg: Manager access initialization begins
+2018-12-02T19:44:58.796 [stContainer - maci::ContainerImpl::init] Connecting to the Manager...
+2018-12-02T19:44:58.796 [stContainer-GL - maci::MACIHelper::resolveManager] ManagerReference obtained via command line: 'corbaloc::200.13.6.10:3000/Manager'
+2018-12-02T19:44:58.796 [stContainer-GL - maci::MACIHelper::resolveManager] Resolving reference: 'corbaloc::200.13.6.10:3000/Manager'
+2018-12-02T19:44:58.797 [stContainer-GL - maci::MACIHelper::resolveManager] Manager reference narrowed.
+2018-12-02T19:44:58.797 [stContainer - maci::ContainerImpl::init] Connected to the Manager.
+2018-12-02T19:44:58.798 [stContainer - maci::ContainerImpl::init] Connecting to the Archiving Channel.
+2018-12-02T19:44:58.803 [stContainer - maci::ContainerImpl::init] Connecting to the Centralized Logger...
+2018-12-02T19:44:58.808 [stContainer - maci::ContainerImpl::init] Connected to the Centralized Logger.
+2018-12-02T19:44:58.810 [stContainer - maci::ContainerImpl::init] Set Naming Context to Logger.
+2018-12-02T19:44:58.810 [stContainer - maci::ContainerImpl::init] Logging into the Manager...
+2018-12-02T19:44:58.815 [stContainer - maci::ContainerImpl::init] Logged into the Manager.
+ContainerStatusMsg: Manager access initialization ends
+ContainerStatusMsg: Startup ends
+2018-12-02T19:44:58.815 [stContainer - ContainerImpl::run] Container running...
+2018-12-02T19:44:58.816 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.816 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.817 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.817 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.819 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:44:58.820 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+ContainerStatusMsg: Automatic component loading begins
+2018-12-02T19:45:01.817 [stContainer - maci::ContainerImpl::taggedmessage] Message from manager received. Type: 20. Tag: 1. Message: Startup statistics: 2 components queued to be activated.
+2018-12-02T19:45:01.817 [Container-ActivationMethod - maci::ActivationMethod::call] Async. activation of component ufro/cemcc/sim with descOut.id_tag = 1 has started.
+2018-12-02T19:45:01.818 [maci::LibraryManager - maci::LibraryManager::load] Request to load 'SensorTagImpl'.
+2018-12-02T19:45:01.818 [maci::LibraryManager - maci::LibraryManager::load] Full path '/home/astro/scarrasco03/INTROOT/lib/libSensorTagImpl.so'
+2018-12-02T19:45:01.819 [maci::LibraryManager - maci::LibraryManager::load] Loading '/home/astro/scarrasco03/INTROOT/lib/libSensorTagImpl.so'.
+2018-12-02T19:45:01.828 [maci::LibraryManager - maci::LibraryManager::load] Executing DLLOpen
+2018-12-02T19:45:01.829 [maci::LibraryManager - maci::LibraryManager::load] DLLOpen executed.
+2018-12-02T19:45:01.829 [maci::LibraryManager - maci::LibraryManager::load] Loaded '/home/astro/scarrasco03/INTROOT/lib/libSensorTagImpl.so'.
+2018-12-02T19:45:01.829 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully loaded component code. logName="LOG_CompAct_Loading_OK" TimeMillis="11" CompName="ufro/cemcc/sim"
+2018-12-02T19:45:01.937 [stContainer-GL - baci::BACIComponent::BACIComponent] Creating Component 'ufro/cemcc/sim'
+2018-12-02T19:45:01.938 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully instantiated component. logName="LOG_CompAct_Instance_OK" TimeMillis="108" CompName="ufro/cemcc/sim"
+2018-12-02T19:45:01.939 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully activated component with Corba. logName="LOG_CompAct_Corba_OK" TimeMillis="0" CompName="ufro/cemcc/sim"
+2018-12-02T19:45:01.939 [stContainer-GL - ] Switched state of component ufro/cemcc/sim: NEW -> INITIALIZING
+
+Connected: Connecting to the MQTT server...connect onSuccess called
+
+Topic: ufro/cemcc/sim/time
+OK
+OK
+
+Connected: connect onSuccess called
+
+Topic: ufro/cemcc/sim/temperature
+Connecting to the MQTT server...OK
+OK
+
+Connected: connect onSuccess called
+
+Topic: ufro/cemcc/sim/light
+Connecting to the MQTT server...OK
+OK
+
+Connected: connect onSuccess called
+
+Topic: ufro/cemcc/sim/pressure
+Connecting to the MQTT server...OK
+OK
+2018-12-02T19:45:05.047 [stContainer-GL - baci::BACIProperty::BACIProperty] Creating property 'ufro/cemcc/sim:time'
+2018-12-02T19:45:05.048 [stContainer-GL - baci::BACIProperty::BACIProperty] Archiver disabled! (archive_suppress=false, archive_mechanism=monitor_collector, archive_min_int=0, archive_max_int=300000000)
+write
+137630727050486680
+2018-12-02T19:45:05.048 [stContainer-GL - baci::ROcommonImpl&lt;&gt;::ROcommonImpl] DevIO initial value set to the default value.
+2018-12-02T19:45:05.049 [stContainer-GL - baci::BACIProperty::BACIProperty] Creating property 'ufro/cemcc/sim:temperature'
+2018-12-02T19:45:05.050 [stContainer-GL - baci::BACIProperty::BACIProperty] Archiver disabled! (archive_suppress=false, archive_mechanism=monitor_collector, archive_min_int=0, archive_max_int=300000000)
+2018-12-02T19:45:05.050 [stContainer-GL - baci::ROcommonImpl&lt;&gt;::ROcommonImpl] DevIO initial value set to the default value.
+2018-12-02T19:45:05.051 [stContainer-GL - baci::BACIProperty::BACIProperty] Creating property 'ufro/cemcc/sim:light'
+2018-12-02T19:45:05.051 [stContainer-GL - baci::BACIProperty::BACIProperty] Archiver disabled! (archive_suppress=false, archive_mechanism=monitor_collector, archive_min_int=0, archive_max_int=300000000)
+2018-12-02T19:45:05.051 [stContainer-GL - baci::ROcommonImpl&lt;&gt;::ROcommonImpl] DevIO initial value set to the default value.
+2018-12-02T19:45:05.052 [stContainer-GL - baci::BACIProperty::BACIProperty] Creating property 'ufro/cemcc/sim:pressure'
+2018-12-02T19:45:05.052 [stContainer-GL - baci::BACIProperty::BACIProperty] Archiver disabled! (archive_suppress=false, archive_mechanism=monitor_collector, archive_min_int=0, archive_max_int=300000000)
+2018-12-02T19:45:05.053 [stContainer-GL - baci::ROcommonImpl&lt;&gt;::ROcommonImpl] DevIO initial value set to the default value.
+2018-12-02T19:45:05.053 [stContainer-GL - ] Switched state of component ufro/cemcc/sim: INITIALIZING -> INITIALIZED
+2018-12-02T19:45:05.053 [stContainer-GL - ] Switched state of component ufro/cemcc/sim: INITIALIZED -> OPERATIONAL
+2018-12-02T19:45:05.054 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully initialized component. logName="LOG_CompAct_Init_OK" TimeMillis="3115" CompName="ufro/cemcc/sim"
+2018-12-02T19:45:05.054 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:45:05.054 [stContainer-GL - maci::ContainerThreadHook::initThread] ContainerThreadHook initiailized
+2018-12-02T19:45:05.055 [ufro/cemcc/sim::monitorThread - maci::ContainerImpl::initThread] Thread name: 'ufro/cemcc/sim::monitorThread'
+2018-12-02T19:45:05.055 [stContainer-GL - baci::monitorThreadWorker] ufro/cemcc/sim
+2018-12-02T19:45:05.056 [ufro/cemcc/sim::actionThread - maci::ContainerImpl::initThread] Thread name: 'ufro/cemcc/sim::actionThread'
+2018-12-02T19:45:05.058 [stContainer-GL - baci::actionThreadWorker] ufro/cemcc/sim
+2018-12-02T19:45:05.065 [stContainer - maci::ContainerImpl::activate_component] Component 'ufro/cemcc/sim' activated.
+2018-12-02T19:45:05.066 [Container-ActivationMethod - maci::ActivationMethod::call] Calling maci::CBComponentInfo::done with descOut.id_tag = 1.
+2018-12-02T19:45:05.070 [Container-ActivationMethod - maci::ActivationMethod::call] Call to maci::CBComponentInfo::done with descOut.id_tag = 1 completed.
+2018-12-02T19:45:05.070 [Container-ActivationMethod - maci::ActivationMethod::call] Async. activation of component MONITOR_COLLECTOR with descOut.id_tag = 2 has started.
+2018-12-02T19:45:05.070 [maci::LibraryManager - maci::LibraryManager::load] Request to load 'MonitorCollector'.
+2018-12-02T19:45:05.071 [maci::LibraryManager - maci::LibraryManager::load] Full path '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'
+2018-12-02T19:45:05.071 [maci::LibraryManager - maci::LibraryManager::load] Loading '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'.
+2018-12-02T19:45:05.088 [maci::LibraryManager - maci::LibraryManager::load] Executing DLLOpen
+2018-12-02T19:45:05.088 [maci::LibraryManager - maci::LibraryManager::load] DLLOpen executed.
+2018-12-02T19:45:05.089 [maci::LibraryManager - maci::LibraryManager::load] Loaded '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'.
+2018-12-02T19:45:05.089 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully loaded component code. logName="LOG_CompAct_Loading_OK" TimeMillis="18" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:05.089 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully instantiated component. logName="LOG_CompAct_Instance_OK" TimeMillis="0" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:05.090 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully activated component with Corba. logName="LOG_CompAct_Corba_OK" TimeMillis="0" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:05.090 [stContainer-GL - ] Switched state of component MONITOR_COLLECTOR: NEW -> INITIALIZING
+2018-12-02T19:45:05.090 [MONITOR_COLLECTOR - ] ContainerServices::getComponentNonSticky(ARCHIVE/TMCDB/MONITOR_CONTROL)
+2018-12-02T19:45:05.091 [MONITOR_COLLECTOR - ] Getting component non sticky: 'ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2018-12-02T19:45:05.098 [stContainer-GL - maci::ContainerImpl::activate_component] Error activating component (type=25, code=9) CURL="MONITOR_COLLECTOR" ComponentType="IDL:alma/TMCDB/MonitorCollector:1.0" ComponentCode="MonitorCollector"
+2018-12-02T19:45:05.098 [stContainer-GL - ACSComponentImpl::__initialize] Life cycle error (type=28, code=0)
+2018-12-02T19:45:05.098 [stContainer-GL - ContainerServices::getComponentNonSticky] Error retrieving component (type=25, code=1) CURL="ARCHIVE/TMCDB/MONITOR_CONTROL"
+2018-12-02T19:45:05.098 [stContainer-GL - MACIContainerServices::getCORBAComponentNonSticky] Error retrieving component (type=25, code=1) CURL="ARCHIVE/TMCDB/MONITOR_CONTROL"
+2018-12-02T19:45:05.092 [stContainer-GL - get_component_non_sticky] The requested Component had not been already activated at request time (type=25, code=2) javaex.class="alma.maciErrType.wrappers.AcsJComponentNotAlreadyActivatedEx"
+2018-12-02T19:45:05.100 [stContainer - maci::ContainerImpl::etherealizeComponent] Etherealizing 'MONITOR_COLLECTOR'
+2018-12-02T19:45:05.100 [stContainer - ContainerImpl::etherealizeComponent - _remove_ref() => destroy servant] StopWatch starts ...
+2018-12-02T19:45:05.101 [stContainer - ContainerImpl::etherealizeComponent - _remove_ref() => destroy servant] StopWatch stops ... execution elapsed time 0.000000 sec
+2018-12-02T19:45:05.101 [maci::LibraryManager - maci::LibraryManager::unload] Unloading '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'
+2018-12-02T19:45:05.101 [maci::LibraryManager - maci::LibraryManager::unload] Executing DLLClose
+2018-12-02T19:45:05.102 [maci::LibraryManager - maci::LibraryManager::unload] DLLClose executed
+2018-12-02T19:45:05.102 [maci::LibraryManager - maci::LibraryManager::unload] Unloaded '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'.
+2018-12-02T19:45:05.103 [Container-ActivationMethod - maci::ActivationMethod::call] Calling maci::CBComponentInfo::done with descOut.id_tag = 2.
+2018-12-02T19:45:05.109 [Container-ActivationMethod - maci::ActivationMethod::call] Call to maci::CBComponentInfo::done with descOut.id_tag = 2 completed.
+2018-12-02T19:45:05.110 [stContainer - maci::ContainerImpl::taggedmessage] Message from manager received. Type: 20. Tag: 2. Message: Startup statistics: 1 of 2 components activated.
+ContainerStatusMsg: Automatic component loading ends
+ContainerStatusMsg: Ready
+2018-12-02T19:45:34.980 [Container-ActivationMethod - maci::ActivationMethod::call] Async. activation of component MONITOR_COLLECTOR with descOut.id_tag = 3 has started.
+2018-12-02T19:45:34.982 [maci::LibraryManager - maci::LibraryManager::load] Request to load 'MonitorCollector'.
+2018-12-02T19:45:34.982 [maci::LibraryManager - maci::LibraryManager::load] Full path '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'
+2018-12-02T19:45:34.982 [maci::LibraryManager - maci::LibraryManager::load] Loading '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'.
+2018-12-02T19:45:34.999 [maci::LibraryManager - maci::LibraryManager::load] Executing DLLOpen
+2018-12-02T19:45:34.999 [maci::LibraryManager - maci::LibraryManager::load] DLLOpen executed.
+2018-12-02T19:45:34.999 [maci::LibraryManager - maci::LibraryManager::load] Loaded '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'.
+2018-12-02T19:45:35.000 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully loaded component code. logName="LOG_CompAct_Loading_OK" TimeMillis="18" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:35.000 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully instantiated component. logName="LOG_CompAct_Instance_OK" TimeMillis="0" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:35.001 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully activated component with Corba. logName="LOG_CompAct_Corba_OK" TimeMillis="0" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:35.001 [stContainer-GL - ] Switched state of component MONITOR_COLLECTOR: NEW -> INITIALIZING
+2018-12-02T19:45:35.001 [MONITOR_COLLECTOR - ] ContainerServices::getComponentNonSticky(ARCHIVE/TMCDB/MONITOR_CONTROL)
+2018-12-02T19:45:35.002 [MONITOR_COLLECTOR - ] Getting component non sticky: 'ARCHIVE/TMCDB/MONITOR_CONTROL'.
+2018-12-02T19:45:35.014 [stContainer-GL - ] Switched state of component MONITOR_COLLECTOR: INITIALIZING -> INITIALIZED
+2018-12-02T19:45:35.014 [stContainer-GL - ] Switched state of component MONITOR_COLLECTOR: INITIALIZED -> OPERATIONAL
+2018-12-02T19:45:35.014 [stContainer-GL - maci::ContainerImpl::activate_component] Successfully initialized component. logName="LOG_CompAct_Init_OK" TimeMillis="13" CompName="MONITOR_COLLECTOR"
+2018-12-02T19:45:35.044 [stContainer - maci::ContainerImpl::activate_component] Component 'MONITOR_COLLECTOR' activated.
+2018-12-02T19:45:35.044 [Container-ActivationMethod - maci::ActivationMethod::call] Calling maci::CBComponentInfo::done with descOut.id_tag = 3.
+2018-12-02T19:45:35.046 [Container-ActivationMethod - maci::ActivationMethod::call] Call to maci::CBComponentInfo::done with descOut.id_tag = 3 completed.
+2018-12-02T19:45:35.054 [MONITOR_COLLECTOR - ] ContainerServices::getComponentNonSticky(ufro/cemcc/sim)
+2018-12-02T19:45:35.054 [MONITOR_COLLECTOR - ] Getting component non sticky: 'ufro/cemcc/sim'.
+2018-12-02T19:45:35.057 [stContainer-GL - MonitorComponent::addProperty] Going to add property[0] = ufro/cemcc/sim:time (IDL:alma/ACS/ROlong:1.0).
+2018-12-02T19:45:35.059 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:time (IDL:alma/ACS/ROlong:1.0) will NOT be collected on value change, because archive_delta is set to '0'.
+2018-12-02T19:45:35.060 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:time (IDL:alma/ACS/ROlong:1.0) will NOT be collected on value percentage change, because archive_delta_percent is set to '0.0E1'.
+2018-12-02T19:45:35.060 [stContainer-GL - ROMonitorPoint<>::ROMonitorPoint] Values from property ufro/cemcc/sim:time (IDL:alma/ACS/ROlong:1.0) will NOT be collected when alarms are raised, because alarm_timer_trig is set to '0.0E1'.
+2018-12-02T19:45:35.061 [stContainer-GL - MonitorComponent::addProperty] Going to add property[1] = ufro/cemcc/sim:temperature (IDL:alma/ACS/ROdouble:1.0).
+2018-12-02T19:45:35.062 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:temperature (IDL:alma/ACS/ROdouble:1.0) will NOT be collected on value change, because archive_delta is set to '0.0E1'.
+2018-12-02T19:45:35.063 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:temperature (IDL:alma/ACS/ROdouble:1.0) will NOT be collected on value percentage change, because archive_delta_percent is set to '0.0E1'.
+2018-12-02T19:45:35.063 [stContainer-GL - ROMonitorPoint<>::ROMonitorPoint] Values from property ufro/cemcc/sim:temperature (IDL:alma/ACS/ROdouble:1.0) will NOT be collected when alarms are raised, because alarm_timer_trig is set to '0.0E1'.
+2018-12-02T19:45:35.064 [stContainer-GL - MonitorComponent::addProperty] Going to add property[2] = ufro/cemcc/sim:light (IDL:alma/ACS/ROdouble:1.0).
+2018-12-02T19:45:35.064 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:light (IDL:alma/ACS/ROdouble:1.0) will NOT be collected on value change, because archive_delta is set to '0.0E1'.
+2018-12-02T19:45:35.064 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:light (IDL:alma/ACS/ROdouble:1.0) will NOT be collected on value percentage change, because archive_delta_percent is set to '0.0E1'.
+2018-12-02T19:45:35.065 [stContainer-GL - ROMonitorPoint<>::ROMonitorPoint] Values from property ufro/cemcc/sim:light (IDL:alma/ACS/ROdouble:1.0) will NOT be collected when alarms are raised, because alarm_timer_trig is set to '0.0E1'.
+2018-12-02T19:45:35.065 [stContainer-GL - MonitorComponent::addProperty] Going to add property[3] = ufro/cemcc/sim:pressure (IDL:alma/ACS/ROdouble:1.0).
+2018-12-02T19:45:35.066 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:pressure (IDL:alma/ACS/ROdouble:1.0) will NOT be collected on value change, because archive_delta is set to '0.0E1'.
+2018-12-02T19:45:35.066 [stContainer-GL - MonitorPoint<>::MonitorPoint] Values from property ufro/cemcc/sim:pressure (IDL:alma/ACS/ROdouble:1.0) will NOT be collected on value percentage change, because archive_delta_percent is set to '0.0E1'.
+2018-12-02T19:45:35.066 [stContainer-GL - ROMonitorPoint<>::ROMonitorPoint] Values from property ufro/cemcc/sim:pressure (IDL:alma/ACS/ROdouble:1.0) will NOT be collected when alarms are raised, because alarm_timer_trig is set to '0.0E1'.
+2018-12-02T19:45:35.067 [MONITOR_COLLECTOR - MonitorCollectorImpl::registerMonitoredDevice] Device ufro/cemcc/sim has been registered at pos: 0.
+2018-12-02T19:45:35.067 [stContainer-GL - MonitorComponent::setDeviceSerialNumber] set serial number for the device ufro/cemcc/sim to 3.
+2018-12-02T19:45:35.068 [stContainer-GL - baci::Monitor&lt;&gt;::Monitor] Name is: 'ufro/cemcc/sim:time_monitor'
+2018-12-02T19:45:35.069 [stContainer-GL - baci::BACIMonitor::BACIMonitor] Creating monitor 'ufro/cemcc/sim:time_monitor' (archiving: 0, triggerTime: 10000000)
+2018-12-02T19:45:35.071 [stContainer-GL - baci::Monitor&lt;&gt;::Monitor] Name is: 'ufro/cemcc/sim:temperature_monitor'
+2018-12-02T19:45:35.071 [stContainer-GL - baci::BACIMonitor::BACIMonitor] Creating monitor 'ufro/cemcc/sim:temperature_monitor' (archiving: 0, triggerTime: 10000000)
+2018-12-02T19:45:35.072 [stContainer-GL - baci::Monitor&lt;&gt;::Monitor] Name is: 'ufro/cemcc/sim:light_monitor'
+2018-12-02T19:45:35.072 [stContainer-GL - baci::BACIMonitor::BACIMonitor] Creating monitor 'ufro/cemcc/sim:light_monitor' (archiving: 0, triggerTime: 10000000)
+2018-12-02T19:45:35.073 [stContainer-GL - baci::Monitor&lt;&gt;::Monitor] Name is: 'ufro/cemcc/sim:pressure_monitor'
+2018-12-02T19:45:35.074 [stContainer-GL - baci::BACIMonitor::BACIMonitor] Creating monitor 'ufro/cemcc/sim:pressure_monitor' (archiving: 0, triggerTime: 10000000)
+read
+137630727350763270
+2018-12-02T19:45:35.082 [stContainer - maci::ContainerImpl::deactivate_component] Deactivating component with handle 16777222 (MONITOR_COLLECTOR of type IDL:alma/TMCDB/MonitorCollector:1.0)
+2018-12-02T19:45:35.088 [stContainer - maci::ContainerImpl::deactivate_component] Component 'MONITOR_COLLECTOR': calling cleanUp Lifecycle .
+2018-12-02T19:45:35.088 [stContainer-GL - ] Switched state of component MONITOR_COLLECTOR: OPERATIONAL -> DESTROYING
+2018-12-02T19:45:35.089 [stContainer - ContainerImpl::deactivate_component - __cleanUp()] StopWatch starts ...
+2018-12-02T19:45:35.093 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Destroying monitor 'ufro/cemcc/sim:time_monitor'
+2018-12-02T19:45:35.094 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Monitor 'ufro/cemcc/sim:time_monitor' destroyed.
+2018-12-02T19:45:35.095 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Destroying monitor 'ufro/cemcc/sim:temperature_monitor'
+2018-12-02T19:45:35.095 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Monitor 'ufro/cemcc/sim:temperature_monitor' destroyed.
+2018-12-02T19:45:35.096 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Destroying monitor 'ufro/cemcc/sim:light_monitor'
+2018-12-02T19:45:35.096 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Monitor 'ufro/cemcc/sim:light_monitor' destroyed.
+2018-12-02T19:45:35.096 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Destroying monitor 'ufro/cemcc/sim:pressure_monitor'
+2018-12-02T19:45:35.097 [stContainer-GL - baci::BACIMonitor::~BACIMonitor] Monitor 'ufro/cemcc/sim:pressure_monitor' destroyed.
+2018-12-02T19:45:35.097 [stContainer - ContainerImpl::deactivate_component - __cleanUp()] StopWatch stops ... execution elapsed time 0.000000 sec
+2018-12-02T19:45:35.098 [stContainer-GL - ] Switched state of component MONITOR_COLLECTOR: DESTROYING -> DEFUNCT
+2018-12-02T19:45:35.098 [stContainer - maci::ContainerImpl::deactivate_component] Component 'MONITOR_COLLECTOR' reference set to nil.
+2018-12-02T19:45:35.098 [stContainer - maci::ContainerImpl::etherealizeComponent] Etherealizing 'MONITOR_COLLECTOR'
+2018-12-02T19:45:35.099 [stContainer - ContainerImpl::etherealizeComponent - _remove_ref() => destroy servant] StopWatch starts ...
+2018-12-02T19:45:35.099 [stContainer - ContainerImpl::etherealizeComponent - _remove_ref() => destroy servant] StopWatch stops ... execution elapsed time 0.000000 sec
+2018-12-02T19:45:35.099 [stContainer - maci::ContainerImpl::etherealizeComponent] Component 'MONITOR_COLLECTOR' etherealized.
+2018-12-02T19:45:35.100 [maci::LibraryManager - maci::LibraryManager::unload] Unloading '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'
+2018-12-02T19:45:35.100 [maci::LibraryManager - maci::LibraryManager::unload] Executing DLLClose
+2018-12-02T19:45:35.100 [maci::LibraryManager - maci::LibraryManager::unload] DLLClose executed
+2018-12-02T19:45:35.101 [maci::LibraryManager - maci::LibraryManager::unload] Unloaded '/home/astro/scarrasco03/INTROOT/lib/libMonitorCollector.so'.
+2018-12-02T19:45:35.101 [stContainer - maci::ContainerImpl::deactivate_component] Component 'MONITOR_COLLECTOR' deactivated.
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543779970
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 33
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 70
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 74
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780008
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 11
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 36
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 77
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780026
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 19
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 68
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 75
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780037
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 11
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 59
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 57
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780048
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 46
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 20
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 68
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780060
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 49
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 50
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 19
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780071
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 45
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 58
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 17
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780081
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 40
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 91
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 49
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780093
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 16
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 83
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 57
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780104
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 42
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 67
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 74
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780114
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 46
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 74
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 16
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780125
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 17
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 95
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 13
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780137
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 24
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 87
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 22
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780148
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 43
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 58
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 36
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780160
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 47
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 52
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 38
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780173
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 16
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 30
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 91
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780185
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 24
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 97
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 69
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780195
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 14
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 52
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 60
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780207
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 39
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 44
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 85
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780218
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 18
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 23
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 96
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780228
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 25
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 22
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 79
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780241
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 35
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 52
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 45
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780253
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 38
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 52
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 94
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780264
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 11
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 67
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 43
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780276
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 21
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 26
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 85
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780287
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 28
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 90
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 39
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780298
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 14
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 13
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 50
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780310
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 31
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 32
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 80
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780320
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 26
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 62
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 53
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780331
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 47
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 24
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 89
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780341
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 30
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 97
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 43
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780352
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 25
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 79
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 36
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780362
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 43
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 48
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 86
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780373
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 29
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 73
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 21
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780383
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 48
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 68
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 68
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780394
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 19
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 68
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 51
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780407
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 19
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 96
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 13
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780419
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 24
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 26
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 90
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780429
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 61
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 17
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 87
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780442
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 29
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 71
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 17
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780454
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 18
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 57
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 90
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780464
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 48
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 84
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 55
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780476
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 37
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 50
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 91
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780498
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 19
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 16
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 62
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780519
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 18
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 40
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 77
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780530
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 67
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 36
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 99
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780540
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 23
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 73
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 27
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780555
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 16
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 43
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 65
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780567
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 20
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 76
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 20
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780578
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 13
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 89
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 66
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780590
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 13
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 41
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 89
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780601
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 44
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 37
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 75
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780612
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 23
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 58
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 69
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780623
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 24
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 93
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 47
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780634
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 44
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 58
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 32
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780647
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 29
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 52
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 10
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780659
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 17
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 62
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 69
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780670
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 34
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 13
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 74
+
+Message arrived
+Topic: ufro/cemcc/sim/time
+
+Message sent 1543780682
+
+Message arrived
+Topic: ufro/cemcc/sim/temperature
+
+Message sent 52
+
+Message arrived
+Topic: ufro/cemcc/sim/light
+
+Message sent 38
+
+Message arrived
+Topic: ufro/cemcc/sim/pressure
+
+Message sent 82
+2018-12-02T19:58:11.995 [stContainer - maci::ContainerImpl::deactivate_component] Deactivating component with handle 16777218 (ufro/cemcc/sim of type IDL:example/Sensors/sensortag:1.0)
+2018-12-02T19:58:11.995 [stContainer - maci::ContainerImpl::deactivate_component] Component 'ufro/cemcc/sim': calling cleanUp Lifecycle .
+2018-12-02T19:58:11.996 [stContainer-GL - ] Switched state of component ufro/cemcc/sim: OPERATIONAL -> DESTROYING
+2018-12-02T19:58:11.996 [stContainer - ContainerImpl::deactivate_component - __cleanUp()] StopWatch starts ...
+2018-12-02T19:58:12.006 [stContainer-GL - ThreadBase::cancel] Thread stopped:ufro/cemcc/sim::actionThread
+2018-12-02T19:58:12.017 [stContainer-GL - ThreadBase::cancel] Thread stopped:ufro/cemcc/sim::monitorThread
+2018-12-02T19:58:12.017 [ufro/cemcc/sim::actionThread - ThreadBase::stop] Thread ufro/cemcc/sim::actionThread
+2018-12-02T19:58:12.018 [ufro/cemcc/sim::monitorThread - ThreadBase::stop] Thread ufro/cemcc/sim::monitorThread
+2018-12-02T19:58:12.018 [stContainer - ContainerImpl::deactivate_component - __cleanUp()] StopWatch stops ... execution elapsed time 1.000000 sec
+2018-12-02T19:58:12.018 [stContainer-GL - ] Switched state of component ufro/cemcc/sim: DESTROYING -> DEFUNCT
+2018-12-02T19:58:12.019 [stContainer - maci::ContainerImpl::deactivate_component] Component 'ufro/cemcc/sim' reference set to nil.
+2018-12-02T19:58:12.019 [stContainer - maci::ContainerImpl::etherealizeComponent] Etherealizing 'ufro/cemcc/sim'
+2018-12-02T19:58:12.019 [stContainer - ContainerImpl::etherealizeComponent - _remove_ref() => destroy servant] StopWatch starts ...
+
+Disconnecting from the MQTT server...OK
+
+Disconnecting from the MQTT server...OK
+
+Disconnecting from the MQTT server...OK
+
+Disconnecting from the MQTT server...OK
+/alma/ACS-2018FEB/ACSSW/bin/acsStartContainer: line 112: 27825 Segmentation fault      $COMMANDLINE
+2018-12-02T19:58:12.735 INFO [acsStartContainer] Container: 'stContainer' exited with code: 139.
