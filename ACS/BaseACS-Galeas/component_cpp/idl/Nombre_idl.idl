@@ -1,0 +1,18 @@
+#ifndef _[NOMBRE_IDL]_IDL_
+#define _[NOMBRE_IDL]_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "example"
+
+module [nombre_cualquiera]
+{
+	interface [Nombe_idl] : ACS::ACSComponent
+	{
+	
+	void metodo1();
+	  
+	};
+};
+
+#endif

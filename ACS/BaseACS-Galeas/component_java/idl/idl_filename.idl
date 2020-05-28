@@ -1,0 +1,18 @@
+#ifndef _<IDL_FILENAME>_IDL_
+#define _<IDL_FILENAME>_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "my_prefix"
+
+module <my_module_name>
+{
+	interface <idl_filename> : ACS::ACSComponent
+	{
+	
+	string my_method();
+	  
+	};
+};
+
+#endif

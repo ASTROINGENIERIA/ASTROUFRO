@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Components  xmlns="urn:schemas-cosylab-com:Components:1.0"
+       xmlns:cdb="urn:schemas-cosylab-com:CDB:1.0" 
+       xmlns:baci="urn:schemas-cosylab-com:BACI:1.0" 
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      
+	<_ Name="<my_component_py>"       Code="[nombre]"	
+                             		Type="IDL:[pragma]/[nombre_modulo]/[nombre_idl]:1.0"
+                             		Container="aragornContainer" ImplLang="py" />
+
+	<_ Name="<my_component_cpp>"      Code="[nombre]"	
+		                     	Type="IDL:[pragma]/[nombre_modulo]/[nombre_idl]:1.0"
+		                     	Container="bilboContainer" ImplLang="cpp" />
+
+	<_ Name="<my_component_java>"     Code="<app_directory>.<helper_filename>"	
+                             		Type="IDL:<my_prefix>/<my_module_name>/<idl_filename>:1.0"
+                             		Container="frodoContainer" ImplLang="java" />
+     
+</Components>
+
