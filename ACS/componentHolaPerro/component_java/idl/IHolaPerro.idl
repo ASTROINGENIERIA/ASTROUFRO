@@ -1,0 +1,18 @@
+#ifndef _IHOLAPERRO_IDL_
+#define _IHOLAPERRO_IDL_
+
+#include <baci.idl>
+
+#pragma prefix "ufro"
+
+module Animales
+{
+	interface IHolaPerro : ACS::ACSComponent
+	{
+	
+	String ladrar();
+	  
+	};
+};
+
+#endif
